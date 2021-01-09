@@ -23,7 +23,7 @@ export class GoodsManager extends Component {
     }
 
     createGoods(){
-      let list = ["chilun_5"]
+      let list = ["chilun_5","mushroom_1","xiaoguaishou_8","yaling_4","youyongquan_6","football_3"]
       list.forEach( (name)=>{
         this.createGood(name);
       } )
