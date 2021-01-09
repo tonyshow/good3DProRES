@@ -1,0 +1,38 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "height": 1136,
+      "width": 640,
+      "fitHeight": true,
+      "fitWidth": false
+    }
+  },
+  "physics": {
+    "gravity": {
+      "y": -20
+    },
+    "defaultMaterial": {
+      "rollingFriction": 10000,
+      "spinningFriction": 0.1,
+      "friction": 10000,
+      "restitution": 0
+    },
+    "sleepThreshold": 0,
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "goods"
+      },
+      {
+        "index": 2,
+        "name": "wall"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 6,
+      "2": 2
+    }
+  }
+}

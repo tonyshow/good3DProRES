@@ -1,0 +1,16 @@
+{
+  "name": "good3DPro",
+  "type": "3d",
+  "uuid": "00789bed-d898-4926-956c-de8afcda62c3",
+  "version": "3.0.0-Preview.1",
+  "dependencies": {
+    "adm-zip": "^0.5.1",
+    "compression": "^1.7.4",
+    "crypto": "^1.0.1",
+    "js-base64": "^3.6.0",
+    "node-xlsx": "^0.15.0",
+    "open": "^7.3.0",
+    "shelljs": "^0.8.4",
+    "unzip": "^0.1.11"
+  }
+}
