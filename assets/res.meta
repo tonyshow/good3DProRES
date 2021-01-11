@@ -7,6 +7,11 @@
   "subMetas": {},
   "userData": {
     "compressionType": {},
-    "isRemoteBundle": {}
+    "isRemoteBundle": {
+      "wechatgame": true,
+      "web-desktop": false
+    },
+    "isBundle": false,
+    "bundleName": "res"
   }
 }

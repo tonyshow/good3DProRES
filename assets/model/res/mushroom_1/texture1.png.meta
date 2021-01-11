@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "1b710ec3-3575-4358-9ebb-d9fc05b8b3f9",
+  "uuid": "1c6805b4-e04a-4722-bec3-d571f3961595",
   "files": [
     ".png",
     ".json"
@@ -10,8 +10,8 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "1b710ec3-3575-4358-9ebb-d9fc05b8b3f9@6c48a",
-      "displayName": "mushroom_1",
+      "uuid": "1c6805b4-e04a-4722-bec3-d571f3961595@6c48a",
+      "displayName": "texture1",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "1b710ec3-3575-4358-9ebb-d9fc05b8b3f9"
+        "imageUuidOrDatabaseUri": "1c6805b4-e04a-4722-bec3-d571f3961595"
       },
       "ver": "1.0.20",
       "imported": true,
@@ -35,6 +35,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "texture",
-    "redirect": "1b710ec3-3575-4358-9ebb-d9fc05b8b3f9@6c48a"
+    "redirect": "1c6805b4-e04a-4722-bec3-d571f3961595@6c48a"
   }
 }

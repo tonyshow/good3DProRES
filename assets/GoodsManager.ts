@@ -5,7 +5,7 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-import { _decorator, Component, Node, resources, Prefab, instantiate, tween, Collider, RigidBody, ERigidBodyType, Vec3, CameraComponent } from 'cc';
+import { _decorator, Component, Node, resources, Prefab, instantiate, tween, Collider, RigidBody, ERigidBodyType, Vec3, CameraComponent, assetManager } from 'cc';
 const { ccclass, property } = _decorator;
 
 @ccclass('GoodsManager')
@@ -13,7 +13,7 @@ export class GoodsManager extends Component {
   @property({ type: CameraComponent, displayName: "相机" })
   camera: CameraComponent = null;
   private offectz = 0; //相机偏移
-
+  private bundle:any =null;
   start() {
     let cameraHight = this.camera.node.position.y;
     //摄像机旋转角度 _euler
@@ -22,14 +22,49 @@ export class GoodsManager extends Component {
     this.createGoods();
   }
 
-  createGoods() {
+  //下载子包
+  loadSubpackage() {
+    return new Promise<Bundle>((resolve, reject) => {
+      assetManager.loadBundle("http://localhost:7456/assets/model", (err: any, bundle: any) => {
+      if (err) {
+        resolve(null);
+      } else {
+        resolve(bundle);
+      }
+    });
+    });
+  }
+
+   /**
+   * 从远程中的bundle中获取预制体
+   * @param bundle
+   * @param name
+   */
+  public   loadRemotePrefabByBundle(
+    prefabName: string,
+  ) {
+    return new Promise<Prefab>((resolve, reject) => {
+      this.bundle.load(prefabName + "", Prefab, (err: string, data: Prefab) => {
+        if (!!err) {
+          reject(null);
+        } else {
+          resolve(data);
+        }
+      });
+    });
+  }
+
+  async createGoods() {
+    this.bundle =   await this.loadSubpackage();
+
+
     let list = ["chilun_5", "xiaoguaishou_8", "yaling_4", "youyongquan_6", "football_3","mushroom_1"]
     list.forEach((name) => {
       this.createGood(name);
     })
   }
   async createGood(name: string) {
-    let prefab: Prefab = await this.loadPrefab("Prefab/Goods/" + name);
+    let prefab: Prefab = await this.loadRemotePrefabByBundle("Prefab/" + name);
     if (!!prefab) {
       let nodeTmp = instantiate(prefab);
       this.node.addChild(nodeTmp);
