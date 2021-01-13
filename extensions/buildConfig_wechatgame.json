@@ -1,0 +1,33 @@
+{
+  "buildPath": "./build",
+  "compressTexture": true,
+  "debug": false,
+  "experimentalEraseModules": false,
+  "mainBundleCompressionType": "merge_dep",
+  "mainBundleIsRemote": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "name": "good3DProRES",
+  "outputName": "wechatgame",
+  "packAutoAtlas": true,
+  "packages": {
+    "wechatgame": {
+      "startSceneAssetBundle": true,
+      "orientation": "portrait",
+      "appid": "wx6ac3f5090a6b99c5",
+      "separateEngine": false,
+      "wasm": "fallback",
+      "remoteServerAddress": "https://cdn.match3d.top/"
+    }
+  },
+  "platform": "wechatgame",
+  "replaceSplashScreen": false,
+  "scenes": [
+    {
+      "url": "db://assets/scene/GameScene.scene",
+      "uuid": "90e68659-bded-46f7-ae35-26a5fa570988"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "90e68659-bded-46f7-ae35-26a5fa570988"
+}
