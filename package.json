@@ -5,12 +5,14 @@
   "version": "3.0.0-Preview.1",
   "dependencies": {
     "adm-zip": "^0.5.1",
+    "async": "^3.2.0",
     "compression": "^1.7.4",
     "crypto": "^1.0.1",
     "js-base64": "^3.6.0",
     "node-xlsx": "^0.15.0",
     "open": "^7.3.0",
     "shelljs": "^0.8.4",
+    "underscore": "^1.12.0",
     "unzip": "^0.1.11"
   }
 }

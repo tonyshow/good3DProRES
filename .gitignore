@@ -1,3 +1,5 @@
 library
 local
 temp
+/tools/output/allconfig.json
+/node_modules
