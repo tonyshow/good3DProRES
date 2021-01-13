@@ -1,6 +1,6 @@
 # good3DPro
 good3DPro 3D消除
-
+安装node：v14.14.0版本
 第一步：
   window:双击 init.sh
 第二步：
