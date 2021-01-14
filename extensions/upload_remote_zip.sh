@@ -12,5 +12,5 @@ zip -q -r remote$current_create_time.zip remote/
 scp remote$current_create_time.zip  root@47.102.37.73:/usr/share/nginx/html
 
 ssh root@47.102.37.73 "cd /usr/share/nginx/html;unzip -ao remote$current_create_time.zip"
-#rm -r -f remote
-#rm -r -f remote*.zip
+rm -r -f remote
+rm -r -f remote*.zip

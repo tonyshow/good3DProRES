@@ -213,6 +213,90 @@
         },
         "time": "2021-1-13 21:21",
         "dirty": false
+      },
+      "1610545807365": {
+        "id": "1610545807365",
+        "progress": 1,
+        "state": "success",
+        "message": "Build success in 7405 ms!",
+        "options": {
+          "name": "good3DProRES",
+          "platform": "wechatgame",
+          "buildPath": "build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": true,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "90e68659-bded-46f7-ae35-26a5fa570988",
+          "scenes": [
+            {
+              "url": "db://assets/scene/GameScene.scene",
+              "uuid": "90e68659-bded-46f7-ae35-26a5fa570988"
+            }
+          ],
+          "outputName": "wechatgame",
+          "packages": {
+            "wechatgame": {
+              "startSceneAssetBundle": true,
+              "orientation": "portrait",
+              "appid": "wx6ac3f5090a6b99c5",
+              "separateEngine": false,
+              "wasm": "fallback",
+              "remoteServerAddress": "https://cdn.match3d.top/"
+            }
+          },
+          "configPath": "/Users/pengyuewu/Documents/git/GitHubPros/good3DProRES/extensions/buildConfig_wechatgame.json"
+        },
+        "time": "2021-1-13 21:50",
+        "dirty": false
+      },
+      "1610545857902": {
+        "id": "1610545857902",
+        "progress": 1,
+        "state": "success",
+        "message": "Build success in 8216 ms!",
+        "options": {
+          "name": "good3DProRES",
+          "platform": "wechatgame",
+          "buildPath": "build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": true,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "90e68659-bded-46f7-ae35-26a5fa570988",
+          "scenes": [
+            {
+              "url": "db://assets/scene/GameScene.scene",
+              "uuid": "90e68659-bded-46f7-ae35-26a5fa570988"
+            }
+          ],
+          "outputName": "wechatgame",
+          "packages": {
+            "wechatgame": {
+              "startSceneAssetBundle": true,
+              "orientation": "portrait",
+              "appid": "wx6ac3f5090a6b99c5",
+              "separateEngine": false,
+              "wasm": "fallback",
+              "remoteServerAddress": "https://cdn.match3d.top/"
+            }
+          },
+          "configPath": "/Users/pengyuewu/Documents/git/GitHubPros/good3DProRES/extensions/buildConfig_wechatgame.json"
+        },
+        "time": "2021-1-13 21:50",
+        "dirty": false
       }
     }
   },
