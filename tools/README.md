@@ -4,7 +4,7 @@ good3DPro 3D消除
 第一步：
   window:双击 init.sh
 第二步：
-  将石墨表格下载到 in/文件夹下
+  将石墨表格下载到 当前目录
 第三部:
   window:双击 createConfig.sh
 第四步：
