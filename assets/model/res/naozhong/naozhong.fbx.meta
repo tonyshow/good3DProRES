@@ -1,12 +1,130 @@
 {
   "ver": "2.0.2",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "2edb6": {
+      "importer": "gltf-mesh",
+      "uuid": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@2edb6",
+      "displayName": "",
+      "id": "2edb6",
+      "name": "pCube12.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5c925": {
+      "importer": "gltf-mesh",
+      "uuid": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@5c925",
+      "displayName": "",
+      "id": "5c925",
+      "name": "polySurface83.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4538": {
+      "importer": "gltf-mesh",
+      "uuid": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@e4538",
+      "displayName": "",
+      "id": "e4538",
+      "name": "polySurface81_Material0.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a5861": {
+      "importer": "gltf-mesh",
+      "uuid": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@a5861",
+      "displayName": "",
+      "id": "a5861",
+      "name": "polySurface84.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7591": {
+      "importer": "gltf-mesh",
+      "uuid": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@c7591",
+      "displayName": "",
+      "id": "c7591",
+      "name": "pSphere58.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "59b73": {
+      "importer": "gltf-scene",
+      "uuid": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@59b73",
+      "displayName": "",
+      "id": "59b73",
+      "name": "naozhong.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false
+    "legacyFbxImporter": false,
+    "redirect": "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@59b73",
+    "assetFinder": {
+      "meshes": [
+        "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@2edb6",
+        "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@5c925",
+        "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@e4538",
+        "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@a5861",
+        "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@c7591"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d2343a37-2e59-4a2d-bc4b-6bd0a800b3e1@59b73"
+      ]
+    }
   }
 }

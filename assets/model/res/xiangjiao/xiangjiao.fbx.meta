@@ -1,12 +1,58 @@
 {
   "ver": "2.0.2",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "5eb74bb5-409a-4e96-af36-a5477c0db8f6",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "a1c4a": {
+      "importer": "gltf-mesh",
+      "uuid": "5eb74bb5-409a-4e96-af36-a5477c0db8f6@a1c4a",
+      "displayName": "",
+      "id": "a1c4a",
+      "name": "pCylinder69_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1eba9": {
+      "importer": "gltf-scene",
+      "uuid": "5eb74bb5-409a-4e96-af36-a5477c0db8f6@1eba9",
+      "displayName": "",
+      "id": "1eba9",
+      "name": "xiangjiao.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.11",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false
+    "legacyFbxImporter": false,
+    "redirect": "5eb74bb5-409a-4e96-af36-a5477c0db8f6@1eba9",
+    "assetFinder": {
+      "meshes": [
+        "5eb74bb5-409a-4e96-af36-a5477c0db8f6@a1c4a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "5eb74bb5-409a-4e96-af36-a5477c0db8f6@1eba9"
+      ]
+    }
   }
 }
