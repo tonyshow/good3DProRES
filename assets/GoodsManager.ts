@@ -5,7 +5,7 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-import { _decorator, Component, Node, resources, Prefab, instantiate, tween, Collider, RigidBody, ERigidBodyType, Vec3, CameraComponent, assetManager } from 'cc';
+import { _decorator, Component, Node, resources, Prefab, instantiate, tween, Collider, RigidBody, ERigidBodyType, Vec3, CameraComponent, assetManager, RigidBodyComponent } from 'cc';
 const { ccclass, property } = _decorator;
 
 @ccclass('GoodsManager')
@@ -56,9 +56,7 @@ export class GoodsManager extends Component {
 
   async createGoods() {
     this.bundle =   await this.loadSubpackage();
-
-
-    let list = ["chilun_5", "xiaoguaishou_8", "yaling_4", "youyongquan_6", "football_3","mushroom_1","dapao"]
+    let list = ["Cube", "xiaoguaishou_8", "yaling_4", "youyongquan_6", "football_3","mushroom_1","dapao"]
     list.forEach((name) => {
       this.createGood(name);
     })
@@ -80,29 +78,18 @@ export class GoodsManager extends Component {
       nodeTmp.setPosition(initPost);
       nodeTmp.setRotationFromEuler(Math.random() * 360, Math.random() * 360, Math.random() * 360)
       nodeTmp.setParent(this.node);
-      let bogidBody = nodeTmp.getComponent(RigidBody);
+      let bogidBody = nodeTmp.getComponent(RigidBodyComponent);
       if (!!bogidBody) {
         bogidBody.mass = 0.1;
-        bogidBody.type = ERigidBodyType.DYNAMIC
-        bogidBody.linearDamping = 0.95;
-        bogidBody.angularDamping = 0.95;
-        bogidBody.addGroup(1);
-        bogidBody.useGravity = true;
-        bogidBody.allowSleep = true;
-        bogidBody.linearFactor = new Vec3(1, 1, 1);//
-        bogidBody.angularFactor = new Vec3(0.7, 0.7, 0.7);//
-        bogidBody.applyForce(new Vec3(0, -150, 0));
+        bogidBody.enabled=false
+        bogidBody.useGravity = false;
+
       }
       let collider = nodeTmp.getComponent(Collider);
       if (!!collider) {
         collider.enabled = false;
       }
-      //to(0.2, { position: new Vec3(initPost.x, 0, initPost.z) })
       tween(nodeTmp).call((nodeTmp: any) => {
-        let collider = nodeTmp.getComponent(Collider);
-        if (!!collider) {
-          collider.enabled = true;
-        }
       }).start();
     }
   }
