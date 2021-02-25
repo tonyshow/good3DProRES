@@ -9,3 +9,6 @@ good3DPro 3D消除
   window:双击 createConfig.sh
 第四步：
   将output文件夹下的allconfig.json上传到远程服务器的/usr/share/nginx/html/remote/下
+
+类型不存在需要添加类型
+  cocos_core_data_utils_attribute_defines_IExposedAttributes
