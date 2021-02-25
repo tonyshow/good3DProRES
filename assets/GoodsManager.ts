@@ -56,7 +56,7 @@ export class GoodsManager extends Component {
 
   async createGoods() {
     this.bundle =   await this.loadSubpackage();
-    let list = ["Cylinder",  "football_3","mushroom_1"]
+    let list = [  "aixin","huoche"]
     list.forEach((name) => {
       this.createGood(name);
     })
