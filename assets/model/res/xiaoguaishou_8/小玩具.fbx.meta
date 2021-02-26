@@ -1,0 +1,254 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734",
+  "files": [],
+  "subMetas": {
+    "b0da2": {
+      "importer": "gltf-mesh",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@b0da2",
+      "displayName": "",
+      "id": "b0da2",
+      "name": "物件_1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99e71": {
+      "importer": "gltf-mesh",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@99e71",
+      "displayName": "",
+      "id": "99e71",
+      "name": "物件_2.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bb536": {
+      "importer": "gltf-mesh",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@bb536",
+      "displayName": "",
+      "id": "bb536",
+      "name": "物件_3.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d05e0": {
+      "importer": "gltf-mesh",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@d05e0",
+      "displayName": "",
+      "id": "d05e0",
+      "name": "物件_4.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "457bd": {
+      "importer": "gltf-mesh",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@457bd",
+      "displayName": "",
+      "id": "457bd",
+      "name": "物件_5.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9b6a": {
+      "importer": "gltf-mesh",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@e9b6a",
+      "displayName": "",
+      "id": "e9b6a",
+      "name": "物件_6.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b934": {
+      "importer": "gltf-material",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@9b934",
+      "displayName": "",
+      "id": "9b934",
+      "name": "新材质 003.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd01a": {
+      "importer": "gltf-material",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@fd01a",
+      "displayName": "",
+      "id": "fd01a",
+      "name": "新材质 001.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aca36": {
+      "importer": "gltf-material",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@aca36",
+      "displayName": "",
+      "id": "aca36",
+      "name": "新材质 002.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e9690": {
+      "importer": "gltf-material",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@e9690",
+      "displayName": "",
+      "id": "e9690",
+      "name": "新材质 001_2.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2cfc": {
+      "importer": "gltf-material",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@d2cfc",
+      "displayName": "",
+      "id": "d2cfc",
+      "name": "新材质 004.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8b91a": {
+      "importer": "gltf-material",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@8b91a",
+      "displayName": "",
+      "id": "8b91a",
+      "name": "材质_7.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b7a1": {
+      "importer": "gltf-scene",
+      "uuid": "78dc0bda-c032-4db6-938b-dc5f31e6c734@9b7a1",
+      "displayName": "",
+      "id": "9b7a1",
+      "name": "小玩具.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "78dc0bda-c032-4db6-938b-dc5f31e6c734@9b7a1",
+    "assetFinder": {
+      "meshes": [
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@b0da2",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@99e71",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@bb536",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@d05e0",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@457bd",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@e9b6a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@9b934",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@fd01a",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@aca36",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@e9690",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@d2cfc",
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@8b91a"
+      ],
+      "scenes": [
+        "78dc0bda-c032-4db6-938b-dc5f31e6c734@9b7a1"
+      ]
+    },
+    "fbx": {
+      "unitConversion": "hierarchy-level"
+    }
+  }
+}
