@@ -29,13 +29,16 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 240,
-        "g": 86,
-        "b": 0,
+        "r": 37,
+        "g": 72,
+        "b": 255,
         "a": 255
       },
-      "normalMap": {
-        "__uuid__": "8b28018e-dd6f-40dd-945d-ab1cdd478def@6c48a"
+      "pbrMap": {
+        "__uuid__": "35095500-a603-476e-ad0e-8c3414fc57df@6c48a"
+      },
+      "occlusionMap": {
+        "__uuid__": "35095500-a603-476e-ad0e-8c3414fc57df@6c48a"
       }
     },
     {},

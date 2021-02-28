@@ -14,13 +14,13 @@
   ],
   "_states": [
     {
-      "rasterizerState": {},
-      "depthStencilState": {},
       "blendState": {
         "targets": [
           {}
         ]
-      }
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
     },
     {},
     {}
@@ -29,13 +29,10 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 240,
-        "g": 86,
+        "r": 185,
+        "g": 126,
         "b": 0,
         "a": 255
-      },
-      "normalMap": {
-        "__uuid__": "8b28018e-dd6f-40dd-945d-ab1cdd478def@6c48a"
       }
     },
     {},

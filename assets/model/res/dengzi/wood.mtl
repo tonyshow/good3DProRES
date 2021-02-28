@@ -8,34 +8,32 @@
   },
   "_techIdx": 0,
   "_defines": [
-    {},
+    {
+      "USE_ALBEDO_MAP": true
+    },
     {},
     {}
   ],
   "_states": [
     {
-      "rasterizerState": {},
-      "depthStencilState": {},
       "blendState": {
         "targets": [
           {}
         ]
-      }
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
     },
     {},
     {}
   ],
   "_props": [
     {
-      "mainColor": {
-        "__type__": "cc.Color",
-        "r": 240,
-        "g": 86,
-        "b": 0,
-        "a": 255
+      "mainTexture": {
+        "__uuid__": "c50ca30d-cf3a-436d-bba6-4fb3f78ef297@6c48a"
       },
       "normalMap": {
-        "__uuid__": "8b28018e-dd6f-40dd-945d-ab1cdd478def@6c48a"
+        "__uuid__": "c50ca30d-cf3a-436d-bba6-4fb3f78ef297@6c48a"
       }
     },
     {},

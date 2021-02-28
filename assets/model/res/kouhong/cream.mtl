@@ -29,13 +29,10 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 240,
-        "g": 86,
-        "b": 0,
+        "r": 255,
+        "g": 109,
+        "b": 115,
         "a": 255
-      },
-      "normalMap": {
-        "__uuid__": "8b28018e-dd6f-40dd-945d-ab1cdd478def@6c48a"
       }
     },
     {},
