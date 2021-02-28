@@ -1,0 +1,80 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3832af8a-9734-4882-a2eb-608381b9a060",
+  "files": [],
+  "subMetas": {
+    "c85c3": {
+      "importer": "gltf-mesh",
+      "uuid": "3832af8a-9734-4882-a2eb-608381b9a060@c85c3",
+      "displayName": "",
+      "id": "c85c3",
+      "name": "pTorus1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1655f": {
+      "importer": "gltf-material",
+      "uuid": "3832af8a-9734-4882-a2eb-608381b9a060@1655f",
+      "displayName": "",
+      "id": "1655f",
+      "name": "ys_aiStandardSurface2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8faf4": {
+      "importer": "gltf-scene",
+      "uuid": "3832af8a-9734-4882-a2eb-608381b9a060@8faf4",
+      "displayName": "",
+      "id": "8faf4",
+      "name": "yaoshi.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "redirect": "3832af8a-9734-4882-a2eb-608381b9a060@8faf4",
+    "assetFinder": {
+      "meshes": [
+        "3832af8a-9734-4882-a2eb-608381b9a060@c85c3"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3832af8a-9734-4882-a2eb-608381b9a060@1655f"
+      ],
+      "scenes": [
+        "3832af8a-9734-4882-a2eb-608381b9a060@8faf4"
+      ]
+    },
+    "fbx": {
+      "unitConversion": "hierarchy-level"
+    },
+    "disableMeshSplit": true
+  }
+}

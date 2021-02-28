@@ -1,0 +1,80 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "901ddd52-c111-4acc-8560-e2ad36d90072",
+  "files": [],
+  "subMetas": {
+    "5c4b0": {
+      "importer": "gltf-mesh",
+      "uuid": "901ddd52-c111-4acc-8560-e2ad36d90072@5c4b0",
+      "displayName": "",
+      "id": "5c4b0",
+      "name": "xigua:pSphere9.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5af45": {
+      "importer": "gltf-material",
+      "uuid": "901ddd52-c111-4acc-8560-e2ad36d90072@5af45",
+      "displayName": "",
+      "id": "5af45",
+      "name": "xigua:aiStandardSurface10.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4756c": {
+      "importer": "gltf-scene",
+      "uuid": "901ddd52-c111-4acc-8560-e2ad36d90072@4756c",
+      "displayName": "",
+      "id": "4756c",
+      "name": "xigua.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "fbx": {
+      "unitConversion": "hierarchy-level"
+    },
+    "disableMeshSplit": true,
+    "redirect": "901ddd52-c111-4acc-8560-e2ad36d90072@4756c",
+    "assetFinder": {
+      "meshes": [
+        "901ddd52-c111-4acc-8560-e2ad36d90072@5c4b0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "901ddd52-c111-4acc-8560-e2ad36d90072@5af45"
+      ],
+      "scenes": [
+        "901ddd52-c111-4acc-8560-e2ad36d90072@4756c"
+      ]
+    }
+  }
+}

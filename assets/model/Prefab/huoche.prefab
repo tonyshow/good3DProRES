@@ -552,7 +552,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
@@ -655,7 +655,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
@@ -758,7 +758,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
@@ -861,7 +861,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
@@ -964,7 +964,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       }
     ],
     "_visFlags": 0,
@@ -1067,7 +1067,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
@@ -1139,7 +1139,7 @@
       "__type__": "cc.Quat",
       "x": 0,
       "y": 0,
-      "z": 0.7071067811865476,
+      "z": 0.7071067811865475,
       "w": 0.7071067811865476
     },
     "_lscale": {
@@ -1170,7 +1170,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
@@ -1273,7 +1273,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
@@ -1376,7 +1376,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       }
     ],
     "_visFlags": 0,
@@ -1649,7 +1649,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "51eecacb-5f88-4226-a263-21ef96c9df7e"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       }
     ],
     "_visFlags": 0,
@@ -2000,7 +2000,7 @@
       "__type__": "cc.Quat",
       "x": 0,
       "y": 0,
-      "z": -0.7071067811865476,
+      "z": -0.7071067811865475,
       "w": 0.7071067811865476
     },
     "_lscale": {
@@ -2103,7 +2103,7 @@
       "__type__": "cc.Quat",
       "x": 0,
       "y": 0,
-      "z": -0.7071067811865476,
+      "z": -0.7071067811865475,
       "w": 0.7071067811865476
     },
     "_lscale": {
@@ -2206,7 +2206,7 @@
       "__type__": "cc.Quat",
       "x": 0,
       "y": 0,
-      "z": -0.7071067811865476,
+      "z": -0.7071067811865475,
       "w": 0.7071067811865476
     },
     "_lscale": {
