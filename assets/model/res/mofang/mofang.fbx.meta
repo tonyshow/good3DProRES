@@ -1,0 +1,15 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "c04dc09c-1825-40e1-b238-4498923f2384",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "fbx": {
+      "unitConversion": "hierarchy-level"
+    }
+  }
+}

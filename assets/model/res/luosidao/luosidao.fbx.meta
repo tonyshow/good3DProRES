@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": false,
+  "uuid": "67cbe273-7472-4339-8264-c1ba3c5dbe67",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "67cbe273-7472-4339-8264-c1ba3c5dbe67@1daaf",
+    "assetFinder": {
+      "meshes": [
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@b8162",
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@ec671",
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@6761a",
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@fd456"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@1daaf"
+      ]
+    },
+    "fbx": {
+      "unitConversion": "hierarchy-level"
+    }
+  }
+}

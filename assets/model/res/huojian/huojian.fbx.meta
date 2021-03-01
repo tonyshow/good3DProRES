@@ -1,29 +1,167 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "60471013-10d1-4928-bd92-a88e243a2eec",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "57896": {
+      "importer": "gltf-material",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@57896",
+      "displayName": "",
+      "id": "57896",
+      "name": "aiStandardSurface31.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "61309": {
+      "importer": "gltf-mesh",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@61309",
+      "displayName": "",
+      "id": "61309",
+      "name": "huojian_group3_polySurface136.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86a1a": {
+      "importer": "gltf-mesh",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@86a1a",
+      "displayName": "",
+      "id": "86a1a",
+      "name": "polySurface135.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de072": {
+      "importer": "gltf-mesh",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@de072",
+      "displayName": "",
+      "id": "de072",
+      "name": "huojian_group3_pCube30.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fa029": {
+      "importer": "gltf-material",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@fa029",
+      "displayName": "",
+      "id": "fa029",
+      "name": "aiStandardSurface30.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a220": {
+      "importer": "gltf-material",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@6a220",
+      "displayName": "",
+      "id": "6a220",
+      "name": "aiStandardSurface27.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4c24a": {
+      "importer": "gltf-material",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@4c24a",
+      "displayName": "",
+      "id": "4c24a",
+      "name": "huojian_aiStandardSurface32.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8cd6a": {
+      "importer": "gltf-scene",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a",
+      "displayName": "",
+      "id": "8cd6a",
+      "name": "huojian.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a",
     "assetFinder": {
       "meshes": [
         "60471013-10d1-4928-bd92-a88e243a2eec@86a1a",
-        "60471013-10d1-4928-bd92-a88e243a2eec@38584",
+        "60471013-10d1-4928-bd92-a88e243a2eec@61309",
         "60471013-10d1-4928-bd92-a88e243a2eec@de072"
       ],
       "skeletons": [],
       "textures": [],
-      "materials": [],
+      "materials": [
+        "60471013-10d1-4928-bd92-a88e243a2eec@fa029",
+        "60471013-10d1-4928-bd92-a88e243a2eec@6a220",
+        "60471013-10d1-4928-bd92-a88e243a2eec@4c24a",
+        "60471013-10d1-4928-bd92-a88e243a2eec@57896"
+      ],
       "scenes": [
         "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a"
       ]
     },
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }

@@ -14,13 +14,13 @@
   ],
   "_states": [
     {
-      "rasterizerState": {},
-      "depthStencilState": {},
       "blendState": {
         "targets": [
           {}
         ]
-      }
+      },
+      "depthStencilState": {},
+      "rasterizerState": {}
     },
     {},
     {}
@@ -29,9 +29,9 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 163,
-        "g": 15,
-        "b": 15,
+        "r": 194,
+        "g": 224,
+        "b": 148,
         "a": 255
       }
     },
