@@ -2,7 +2,7 @@
   "__version__": "1.0.0",
   "current-scene": "90e68659-bded-46f7-ae35-26a5fa570988",
   "gizmos-infos": {
-    "is2D": false,
+    "is2D": true,
     "is3DIcon": false,
     "iconSize": 2,
     "gridVisible": true,

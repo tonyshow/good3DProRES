@@ -1,10 +1,78 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "60471013-10d1-4928-bd92-a88e243a2eec",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "38584": {
+      "importer": "gltf-mesh",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@38584",
+      "displayName": "",
+      "id": "38584",
+      "name": "huojian_group3_polySurface136_Material0.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86a1a": {
+      "importer": "gltf-mesh",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@86a1a",
+      "displayName": "",
+      "id": "86a1a",
+      "name": "polySurface135.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "de072": {
+      "importer": "gltf-mesh",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@de072",
+      "displayName": "",
+      "id": "de072",
+      "name": "huojian_group3_pCube30.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8cd6a": {
+      "importer": "gltf-scene",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a",
+      "displayName": "",
+      "id": "8cd6a",
+      "name": "huojian.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": false,
