@@ -5,6 +5,7 @@
   "uuid": "60471013-10d1-4928-bd92-a88e243a2eec",
   "files": [],
   "subMetas": {
+<<<<<<< HEAD
     "57896": {
       "importer": "gltf-material",
       "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@57896",
@@ -27,6 +28,14 @@
       "displayName": "",
       "id": "61309",
       "name": "huojian_group3_polySurface136.mesh",
+=======
+    "38584": {
+      "importer": "gltf-mesh",
+      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@38584",
+      "displayName": "",
+      "id": "38584",
+      "name": "huojian_group3_polySurface136_Material0.mesh",
+>>>>>>> cb327f453c202916fe2116c68d8806395b2ba9b5
       "userData": {
         "gltfIndex": 1
       },
@@ -72,6 +81,7 @@
       ],
       "subMetas": {}
     },
+<<<<<<< HEAD
     "fa029": {
       "importer": "gltf-material",
       "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@fa029",
@@ -120,6 +130,8 @@
       ],
       "subMetas": {}
     },
+=======
+>>>>>>> cb327f453c202916fe2116c68d8806395b2ba9b5
     "8cd6a": {
       "importer": "gltf-scene",
       "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a",

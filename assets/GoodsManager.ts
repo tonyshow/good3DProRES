@@ -39,9 +39,11 @@ export class GoodsManager extends Component {
     return new Promise<Bundle>((resolve, reject) => {
       assetManager.loadBundle("http://localhost:7456/assets/model", (err: any, bundle: Bundle) => {
         let _map = bundle.config.paths._map;
+        let listInfo=""
         for (let k in _map) {
           if (k.indexOf("Prefab/") != -1) {
             let itemName = k.replace("Prefab/", "")
+            listInfo+=itemName+"#"
             this.mapList.push(itemName)
             let itemNode = instantiate(this.itemPrefab);
             this.itemParentNode.addChild(itemNode)
@@ -50,6 +52,7 @@ export class GoodsManager extends Component {
             (ctr as ItemCtr).registerb(this.eveTouchItemCB.bind(this) )
           }
         }
+        log(listInfo)
         if (err) {
           resolve(null);
         } else {
