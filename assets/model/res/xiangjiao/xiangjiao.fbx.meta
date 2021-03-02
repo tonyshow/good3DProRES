@@ -22,22 +22,6 @@
       ],
       "subMetas": {}
     },
-    "a67ec": {
-      "importer": "gltf-material",
-      "uuid": "5eb74bb5-409a-4e96-af36-a5477c0db8f6@a67ec",
-      "displayName": "",
-      "id": "a67ec",
-      "name": "aiStandardSurface40.material",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "adc5d": {
       "importer": "gltf-material",
       "uuid": "5eb74bb5-409a-4e96-af36-a5477c0db8f6@adc5d",
@@ -45,7 +29,7 @@
       "id": "adc5d",
       "name": "aiStandardSurface37.material",
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 0
       },
       "ver": "1.0.14",
       "imported": true,
@@ -61,7 +45,7 @@
       "id": "319b1",
       "name": "aiStandardSurface38.material",
       "userData": {
-        "gltfIndex": 2
+        "gltfIndex": 1
       },
       "ver": "1.0.14",
       "imported": true,
@@ -77,7 +61,7 @@
       "id": "c1b4f",
       "name": "aiStandardSurface39.material",
       "userData": {
-        "gltfIndex": 3
+        "gltfIndex": 2
       },
       "ver": "1.0.14",
       "imported": true,
@@ -114,7 +98,6 @@
       "skeletons": [],
       "textures": [],
       "materials": [
-        "5eb74bb5-409a-4e96-af36-a5477c0db8f6@a67ec",
         "5eb74bb5-409a-4e96-af36-a5477c0db8f6@adc5d",
         "5eb74bb5-409a-4e96-af36-a5477c0db8f6@319b1",
         "5eb74bb5-409a-4e96-af36-a5477c0db8f6@c1b4f"

@@ -75,9 +75,9 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 0,
+      "x": -1.287,
       "y": 0,
-      "z": 0
+      "z": -0.488
     },
     "_lrot": {
       "__type__": "cc.Quat",
@@ -265,7 +265,7 @@
         "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       },
       {
-        "__uuid__": "b521c9c2-d9c7-4f8f-b6e5-e6672e797e70"
+        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
       }
     ],
     "_visFlags": 0,
