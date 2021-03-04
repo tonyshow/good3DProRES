@@ -16,12 +16,18 @@ export class GoodsManager extends Component {
   private offectz = 0; //相机偏移
   private bundle: any = null;
   private mapList: Array<string> = [];
-
+  private N=100
+  private idx=-1;
+  private size = 1;
   @property({ type: Prefab, displayName: "预制体" })
   itemPrefab: Prefab = null;
 
   @property({ type: Node, displayName: "父节点" })
   itemParentNode: Node = null;
+
+
+  @property({ type: Node, displayName: "父节点" })
+  goodsParent: Node = null;
 
   start() {
     let cameraHight = this.camera.node.position.y;
@@ -52,6 +58,8 @@ export class GoodsManager extends Component {
             (ctr as ItemCtr).registerb(this.eveTouchItemCB.bind(this) )
           }
         }
+
+        this.N=this.mapList.length;
         log(listInfo)
         if (err) {
           resolve(null);
@@ -82,7 +90,8 @@ export class GoodsManager extends Component {
   }
 
   eveClearAll(){
-    this.node.removeAllChildren();
+    this.goodsParent.removeAllChildren();
+    this.idx=-1;
   }
   eveLoadAll(){
    this.mapList.forEach((name) => {
@@ -97,10 +106,19 @@ export class GoodsManager extends Component {
     //})
   }
   async createGood(name: string) {
+
+    let inc = Math.PI * (3.0 - Math.sqrt(5.0));
+    let off = 2.0 / (this.N * 2);//注意保持数值精度
+    let newIdxCnt = ++this.idx;
+    let y = newIdxCnt * off - 1.0 + (off / 10.0);
+    let r = Math.sqrt(1 - y * y);
+    let phi = newIdxCnt * inc;
+    let pos: Vec3 = new Vec3(Math.cos(phi) * r * this.size, y * this.size, Math.sin(phi) * r * this.size);
+
     let prefab: Prefab = await this.loadRemotePrefabByBundle("Prefab/" + name);
     if (!!prefab) {
       let nodeTmp = instantiate(prefab);
-      this.node.addChild(nodeTmp);
+      this.goodsParent.addChild(nodeTmp);
 
       let x = Math.random() > 0.5 ? -1 : 1;
       let y = Math.random() > 0.5 ? -1 : 1;
@@ -110,9 +128,10 @@ export class GoodsManager extends Component {
         7,
         z * Math.random() * 9 + this.offectz
       );
+      initPost=  pos;
       nodeTmp.setPosition(initPost);
+      nodeTmp.scale = new Vec3(0.15, 0.15, 0.15);
       nodeTmp.setRotationFromEuler(Math.random() * 360, Math.random() * 360, Math.random() * 360)
-      nodeTmp.setParent(this.node);
       tween(nodeTmp).call((nodeTmp: any) => {
       }).start();
     }else{
