@@ -1,10 +1,76 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "9ff93": {
+      "importer": "gltf-mesh",
+      "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@9ff93",
+      "displayName": "",
+      "id": "9ff93",
+      "name": "pSolid1_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "55b43": {
+      "importer": "gltf-material",
+      "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@55b43",
+      "displayName": "",
+      "id": "55b43",
+      "name": "lambert3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9a264": {
+      "importer": "gltf-scene",
+      "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@9a264",
+      "displayName": "",
+      "id": "9a264",
+      "name": "football_3.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": false,

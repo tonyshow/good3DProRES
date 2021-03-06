@@ -22,48 +22,14 @@
       ],
       "subMetas": {}
     },
-    "07cbd": {
+    "8796e": {
       "importer": "gltf-mesh",
-      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@07cbd",
+      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@8796e",
       "displayName": "",
-      "id": "07cbd",
-      "name": "polySurface10.mesh",
+      "id": "8796e",
+      "name": "polySurface8.mesh",
       "userData": {
-        "gltfIndex": 4
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "de30a": {
-      "importer": "gltf-mesh",
-      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@de30a",
-      "displayName": "",
-      "id": "de30a",
-      "name": "polySurface12.mesh",
-      "userData": {
-        "gltfIndex": 2
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "967a8": {
-      "importer": "gltf-mesh",
-      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@967a8",
-      "displayName": "",
-      "id": "967a8",
-      "name": "polySurface14.mesh",
-      "userData": {
-        "gltfIndex": 5
+        "gltfIndex": 0
       },
       "ver": "1.1.0",
       "imported": true,
@@ -90,14 +56,14 @@
       ],
       "subMetas": {}
     },
-    "8796e": {
+    "de30a": {
       "importer": "gltf-mesh",
-      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@8796e",
+      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@de30a",
       "displayName": "",
-      "id": "8796e",
-      "name": "polySurface8.mesh",
+      "id": "de30a",
+      "name": "polySurface12.mesh",
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 2
       },
       "ver": "1.1.0",
       "imported": true,
@@ -107,18 +73,36 @@
       ],
       "subMetas": {}
     },
-    "238be": {
-      "importer": "gltf-scene",
-      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@238be",
+    "07cbd": {
+      "importer": "gltf-mesh",
+      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@07cbd",
       "displayName": "",
-      "id": "238be",
-      "name": "dangao.prefab",
+      "id": "07cbd",
+      "name": "polySurface10.mesh",
       "userData": {
-        "gltfIndex": 0
+        "gltfIndex": 4
       },
-      "ver": "1.0.12",
+      "ver": "1.1.0",
       "imported": true,
       "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "967a8": {
+      "importer": "gltf-mesh",
+      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@967a8",
+      "displayName": "",
+      "id": "967a8",
+      "name": "polySurface14.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
         ".json"
       ],
       "subMetas": {}
@@ -197,6 +181,22 @@
         "gltfIndex": 4
       },
       "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "238be": {
+      "importer": "gltf-scene",
+      "uuid": "4808c9ac-f5c1-42f0-bbff-3fa1c691668a@238be",
+      "displayName": "",
+      "id": "238be",
+      "name": "dangao.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"

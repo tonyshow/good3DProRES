@@ -5,7 +5,7 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-import { _decorator, Component, Node, resources, Prefab, instantiate, tween, Collider, RigidBody, ERigidBodyType, Vec3, CameraComponent, assetManager, RigidBodyComponent, log, error } from 'cc';
+import { _decorator, Component, Node, resources, Prefab, instantiate, tween, Collider, RigidBody, ERigidBodyType, Vec3, CameraComponent, assetManager, RigidBodyComponent, log, error, Label } from 'cc';
 import { ItemCtr } from './ItemCtr';
 const { ccclass, property } = _decorator;
 
@@ -28,7 +28,12 @@ export class GoodsManager extends Component {
 
   @property({ type: Node, displayName: "父节点" })
   goodsParent: Node = null;
+  @property({ type: Label, displayName: "cntLb" })
+  cntLb: Label = null;
+  @property({ type: Label, displayName: "当前物体名字" })
+  currGoodLb: Label = null;
 
+  private timeCtr:any=null;
   start() {
     let cameraHight = this.camera.node.position.y;
     //摄像机旋转角度 _euler
@@ -38,7 +43,35 @@ export class GoodsManager extends Component {
   }
 
   eveTouchItemCB(name:string){
-    this.createGood(name)
+    this.currGoodLb.string = name
+    this.stopTime();
+    this.eveClearAll();
+    for(let i = 0; i <80;++i){
+      this.createGood(name)
+    }
+  }
+
+  eveAuto(){
+    this.eveTouchItemCB(this.mapList[0])
+    this.currGoodLb.string = 1 +":"+ this.mapList[0]
+    var idx = 1;
+    this.timeCtr=  setInterval( ()=>{
+      if( idx>=this.mapList.length ){
+        return;
+      }
+      this.eveClearAll();
+      this.currGoodLb.string =idx+1 +":"+ this.mapList[idx]
+      for(let i = 0; i <80;++i){
+        this.createGood(this.mapList[idx])
+      }
+      ++idx;
+    },1000 )
+  }
+
+  stopTime(){
+    if(!!this.timeCtr){
+      clearInterval(this.timeCtr)
+    }
   }
   //下载子包
   loadSubpackage() {
@@ -54,9 +87,11 @@ export class GoodsManager extends Component {
             let itemNode = instantiate(this.itemPrefab);
             this.itemParentNode.addChild(itemNode)
             let ctr = itemNode.getComponent("ItemCtr");
-            (ctr as ItemCtr).setLb(itemName);
+            (ctr as ItemCtr).setLb(itemName,this.mapList.length);
             (ctr as ItemCtr).registerb(this.eveTouchItemCB.bind(this) )
           }
+
+          this.cntLb.string ="总数:" + this.mapList.length+"个"
         }
 
         this.N=this.mapList.length;
@@ -88,25 +123,22 @@ export class GoodsManager extends Component {
       });
     });
   }
-
   eveClearAll(){
     this.goodsParent.removeAllChildren();
     this.idx=-1;
   }
   eveLoadAll(){
+  this.stopTime();
+  this.eveClearAll();
    this.mapList.forEach((name) => {
+      this.createGood(name);
       this.createGood(name);
     })
   }
   async createGoods() {
     this.bundle = await this.loadSubpackage();
-    //let list = ["aixin", "huoche", "juzi_half", "kouhong"]
-    //list.forEach((name) => {
-    //  this.createGood(name);
-    //})
   }
   async createGood(name: string) {
-
     let inc = Math.PI * (3.0 - Math.sqrt(5.0));
     let off = 2.0 / (this.N * 2);//注意保持数值精度
     let newIdxCnt = ++this.idx;

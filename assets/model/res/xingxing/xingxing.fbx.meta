@@ -1,12 +1,58 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "1f6d597a-1320-4400-8168-de0c47261af8",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "97bef": {
+      "importer": "gltf-mesh",
+      "uuid": "1f6d597a-1320-4400-8168-de0c47261af8@97bef",
+      "displayName": "",
+      "id": "97bef",
+      "name": "pCylinder15.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad4bc": {
+      "importer": "gltf-scene",
+      "uuid": "1f6d597a-1320-4400-8168-de0c47261af8@ad4bc",
+      "displayName": "",
+      "id": "ad4bc",
+      "name": "xingxing.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false
+    "legacyFbxImporter": false,
+    "redirect": "1f6d597a-1320-4400-8168-de0c47261af8@ad4bc",
+    "assetFinder": {
+      "meshes": [
+        "1f6d597a-1320-4400-8168-de0c47261af8@97bef"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "1f6d597a-1320-4400-8168-de0c47261af8@ad4bc"
+      ]
+    }
   }
 }

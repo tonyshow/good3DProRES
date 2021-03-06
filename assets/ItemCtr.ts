@@ -7,12 +7,15 @@ export class ItemCtr extends Component {
 
   @property({ type: Label, displayName: "父节点" })
   itemParentLabel: Label = null;
-
+  @property({ type: Label, displayName: "个数" })
+  idxLabel: Label = null;
   cb:Function=null;
 
   name :string="";
-  setLb(txt:string){
+  setLb(txt:string,idx:any){
     this.itemParentLabel.string = txt;
+    this.idxLabel.string = idx+"";
+
     this.name = txt;
   }
 
