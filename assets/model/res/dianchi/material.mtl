@@ -9,6 +9,7 @@
   "_techIdx": 0,
   "_defines": [
     {
+      "USE_LIGHTMAP": true,
       "USE_ALBEDO_MAP": true
     },
     {},
@@ -29,6 +30,13 @@
   ],
   "_props": [
     {
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 245,
+        "b": 170,
+        "a": 255
+      },
       "occlusion": 0.4,
       "mainTexture": {
         "__uuid__": "3b8d4bf0-ad5c-4209-8e38-b7060af72996@6c48a"

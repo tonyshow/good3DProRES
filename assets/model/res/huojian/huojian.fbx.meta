@@ -2,13 +2,12 @@
   "ver": "2.0.10",
   "importer": "fbx",
   "imported": true,
-  "uuid": "60471013-10d1-4928-bd92-a88e243a2eec",
+  "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2",
   "files": [],
   "subMetas": {
-<<<<<<< HEAD
     "57896": {
       "importer": "gltf-material",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@57896",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@57896",
       "displayName": "",
       "id": "57896",
       "name": "aiStandardSurface31.material",
@@ -24,18 +23,10 @@
     },
     "61309": {
       "importer": "gltf-mesh",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@61309",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@61309",
       "displayName": "",
       "id": "61309",
       "name": "huojian_group3_polySurface136.mesh",
-=======
-    "38584": {
-      "importer": "gltf-mesh",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@38584",
-      "displayName": "",
-      "id": "38584",
-      "name": "huojian_group3_polySurface136_Material0.mesh",
->>>>>>> cb327f453c202916fe2116c68d8806395b2ba9b5
       "userData": {
         "gltfIndex": 1
       },
@@ -49,7 +40,7 @@
     },
     "86a1a": {
       "importer": "gltf-mesh",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@86a1a",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@86a1a",
       "displayName": "",
       "id": "86a1a",
       "name": "polySurface135.mesh",
@@ -66,7 +57,7 @@
     },
     "de072": {
       "importer": "gltf-mesh",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@de072",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@de072",
       "displayName": "",
       "id": "de072",
       "name": "huojian_group3_pCube30.mesh",
@@ -81,10 +72,9 @@
       ],
       "subMetas": {}
     },
-<<<<<<< HEAD
     "fa029": {
       "importer": "gltf-material",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@fa029",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@fa029",
       "displayName": "",
       "id": "fa029",
       "name": "aiStandardSurface30.material",
@@ -100,7 +90,7 @@
     },
     "6a220": {
       "importer": "gltf-material",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@6a220",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@6a220",
       "displayName": "",
       "id": "6a220",
       "name": "aiStandardSurface27.material",
@@ -116,7 +106,7 @@
     },
     "4c24a": {
       "importer": "gltf-material",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@4c24a",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@4c24a",
       "displayName": "",
       "id": "4c24a",
       "name": "huojian_aiStandardSurface32.material",
@@ -130,11 +120,9 @@
       ],
       "subMetas": {}
     },
-=======
->>>>>>> cb327f453c202916fe2116c68d8806395b2ba9b5
     "8cd6a": {
       "importer": "gltf-scene",
-      "uuid": "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a",
+      "uuid": "4dea73c4-142c-4090-bf72-321bde1e35a2@8cd6a",
       "displayName": "",
       "id": "8cd6a",
       "name": "huojian.prefab",
@@ -152,28 +140,25 @@
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": true,
-    "redirect": "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a",
+    "disableMeshSplit": true,
+    "redirect": "4dea73c4-142c-4090-bf72-321bde1e35a2@8cd6a",
     "assetFinder": {
       "meshes": [
-        "60471013-10d1-4928-bd92-a88e243a2eec@86a1a",
-        "60471013-10d1-4928-bd92-a88e243a2eec@61309",
-        "60471013-10d1-4928-bd92-a88e243a2eec@de072"
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@86a1a",
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@61309",
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@de072"
       ],
       "skeletons": [],
       "textures": [],
       "materials": [
-        "60471013-10d1-4928-bd92-a88e243a2eec@fa029",
-        "60471013-10d1-4928-bd92-a88e243a2eec@6a220",
-        "60471013-10d1-4928-bd92-a88e243a2eec@4c24a",
-        "60471013-10d1-4928-bd92-a88e243a2eec@57896"
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@fa029",
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@6a220",
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@4c24a",
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@57896"
       ],
       "scenes": [
-        "60471013-10d1-4928-bd92-a88e243a2eec@8cd6a"
+        "4dea73c4-142c-4090-bf72-321bde1e35a2@8cd6a"
       ]
-    },
-    "fbx": {
-      "unitConversion": "hierarchy-level"
-    },
-    "disableMeshSplit": true
+    }
   }
 }

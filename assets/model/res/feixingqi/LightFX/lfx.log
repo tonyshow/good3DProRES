@@ -1,0 +1,27 @@
+2021-03-06 13:36:57 E:\CocosDashboard\resources\.editors\Creator\3.0.0\resources\tools\lightmap-tools/LightFX http://127.0.0.1:8000 
+2021-03-06 13:36:57 -:Building meshes
+2021-03-06 13:36:57 -:Building terrain
+2021-03-06 13:36:57 -:Building bv scene
+2021-03-06 13:36:58 Start 0
+
+2021-03-06 13:36:58 Build lighting 25
+
+2021-03-06 13:36:58 Build lighting 50
+
+2021-03-06 13:36:58 Build lighting 75
+
+2021-03-06 13:36:58 Build lighting 100
+
+2021-03-06 13:36:58 Save world...
+2021-03-06 13:36:58 Writing lfx file 'output/lfx.o'
+2021-03-06 13:36:58 Pack mesh 0
+2021-03-06 13:36:58 Pack mesh 1
+2021-03-06 13:36:58 Pack mesh 2
+2021-03-06 13:36:58 Save lighting map output/LFX_Mesh_0000.png
+2021-03-06 13:36:58 Writing lfx file end.
+2021-03-06 13:36:58 Save world end.
+2021-03-06 13:36:58 Clear world...
+2021-03-06 13:36:58 Clear world end.
+2021-03-06 13:36:58 Emit finished
+2021-03-06 13:36:58 Delete world
+2021-03-06 13:36:58 Wait to stop

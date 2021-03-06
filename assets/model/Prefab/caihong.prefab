@@ -72,16 +72,16 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -0.022,
-      "y": -0.024,
-      "z": -0.512
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "_lrot": {
       "__type__": "cc.Quat",
-      "x": 0,
-      "y": 0.9659258262890683,
+      "x": -0.7071067811865475,
+      "y": 0,
       "z": 0,
-      "w": -0.25881904510252085
+      "w": 0.7071067811865476
     },
     "_lscale": {
       "__type__": "cc.Vec3",
@@ -92,15 +92,15 @@
     "_layer": 1073741824,
     "_euler": {
       "__type__": "cc.Vec3",
-      "x": 0,
-      "y": 210,
+      "x": -90,
+      "y": 0,
       "z": 0
     },
     "_id": ""
   },
   {
     "__type__": "cc.Node",
-    "_name": "pCylinder17",
+    "_name": "pCylinder18",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -117,9 +117,9 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 0.002,
+      "x": 0,
       "y": 0,
-      "z": -0.002
+      "z": 0
     },
     "_lrot": {
       "__type__": "cc.Quat",
@@ -131,7 +131,7 @@
     "_lscale": {
       "__type__": "cc.Vec3",
       "x": 1,
-      "y": 0.2,
+      "y": 1,
       "z": 1
     },
     "_layer": 1073741824,
@@ -156,16 +156,16 @@
     },
     "_materials": [
       {
-        "__uuid__": "498346a7-9140-422f-8748-5db2e2ad9418"
+        "__uuid__": "cbc00ce9-6857-4654-b111-c2083382d7da"
       },
       {
-        "__uuid__": "7cbd2458-30aa-4c19-8b9a-e41ddfff0751"
-      },
-      {
-        "__uuid__": "b521c9c2-d9c7-4f8f-b6e5-e6672e797e70"
+        "__uuid__": "0bd9d90e-3703-42b3-8d98-e28ca5b6a5c3"
       },
       {
         "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
+      },
+      {
+        "__uuid__": "2b5835c2-49a1-4581-aa81-5babcfd4371f"
       }
     ],
     "_visFlags": 0,
@@ -173,7 +173,7 @@
       "__id__": 6
     },
     "_mesh": {
-      "__uuid__": "6a262f28-13a9-4d03-af65-669305bd4cdb@53805"
+      "__uuid__": "6a262f28-13a9-4d03-af65-669305bd4cdb@896c1"
     },
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,
@@ -182,7 +182,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "b0A6CdFNRV8r4gJVsO4P5R"
+    "fileId": "d6VejLAN1Yv5Ra+QGLIwqY"
   },
   {
     "__type__": "cc.ModelLightmapSettings",
@@ -208,7 +208,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "d6FCBNIJtV/K+Ue30CD0AT"
+    "fileId": "eaI7UnXFdW1asT+s43j/ak"
   },
   {
     "__type__": "cc.PrefabInfo",
