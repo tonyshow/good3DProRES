@@ -74,12 +74,12 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": -1.17
+      "z": 1.205
     },
     "_lrot": {
       "__type__": "cc.Quat",
-      "x": 0.4999999999999999,
-      "y": 0.5,
+      "x": -0.4999999999999999,
+      "y": -0.5,
       "z": 0.5,
       "w": 0.5000000000000001
     },
@@ -93,7 +93,7 @@
     "_euler": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 90,
+      "y": -90,
       "z": 90
     },
     "_id": ""
@@ -237,7 +237,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "12d2dd77-33eb-476b-80b2-279a11b1c4d2"
+        "__uuid__": "75793279-83d4-42ef-8963-93906bda2909"
       }
     ],
     "_visFlags": 0,
@@ -340,7 +340,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "2ac379de-65ae-454e-a3d6-5a3d508a3195"
+        "__uuid__": "3450beaf-c0b2-4c92-a4a8-7e5c8d0da197"
       }
     ],
     "_visFlags": 0,
@@ -443,7 +443,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "b521c9c2-d9c7-4f8f-b6e5-e6672e797e70"
+        "__uuid__": "b94594c3-1f52-4691-bbb8-d92114fddd31"
       }
     ],
     "_visFlags": 0,
@@ -649,7 +649,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "498346a7-9140-422f-8748-5db2e2ad9418"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       }
     ],
     "_visFlags": 0,
@@ -752,7 +752,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "2ac379de-65ae-454e-a3d6-5a3d508a3195"
+        "__uuid__": "5b8e8760-b8c3-40ea-9e85-058cebc851cf"
       }
     ],
     "_visFlags": 0,
@@ -855,7 +855,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "cbc00ce9-6857-4654-b111-c2083382d7da"
+        "__uuid__": "5b8e8760-b8c3-40ea-9e85-058cebc851cf"
       }
     ],
     "_visFlags": 0,
@@ -958,7 +958,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "2ac379de-65ae-454e-a3d6-5a3d508a3195"
+        "__uuid__": "5b8e8760-b8c3-40ea-9e85-058cebc851cf"
       }
     ],
     "_visFlags": 0,
@@ -1061,7 +1061,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "2ac379de-65ae-454e-a3d6-5a3d508a3195"
+        "__uuid__": "5b8e8760-b8c3-40ea-9e85-058cebc851cf"
       }
     ],
     "_visFlags": 0,
@@ -1164,7 +1164,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "2ac379de-65ae-454e-a3d6-5a3d508a3195"
+        "__uuid__": "5b8e8760-b8c3-40ea-9e85-058cebc851cf"
       }
     ],
     "_visFlags": 0,
@@ -1267,7 +1267,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "2ac379de-65ae-454e-a3d6-5a3d508a3195"
+        "__uuid__": "58ab9c35-4180-4d91-9e15-dc77ff99c64e"
       }
     ],
     "_visFlags": 0,
@@ -1473,7 +1473,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "2ac379de-65ae-454e-a3d6-5a3d508a3195"
+        "__uuid__": "5b8e8760-b8c3-40ea-9e85-058cebc851cf"
       }
     ],
     "_visFlags": 0,

@@ -2,7 +2,7 @@
   "__version__": "1.0.0",
   "current-scene": "90e68659-bded-46f7-ae35-26a5fa570988",
   "gizmos-infos": {
-    "is2D": true,
+    "is2D": false,
     "is3DIcon": false,
     "iconSize": 2,
     "gridVisible": true,
@@ -19,9 +19,9 @@
   "camera-infos": {
     "90e68659-bded-46f7-ae35-26a5fa570988": {
       "position": {
-        "x": 320,
-        "y": 568,
-        "z": 5000
+        "x": 319.99999999999994,
+        "y": 567.9999999999999,
+        "z": 1692.9202442493759
       },
       "rotation": {
         "x": 0,

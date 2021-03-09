@@ -1,44 +1,10 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": true,
+  "imported": false,
   "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d",
   "files": [],
-  "subMetas": {
-    "febd0": {
-      "importer": "gltf-mesh",
-      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@febd0",
-      "displayName": "",
-      "id": "febd0",
-      "name": "bandeng1:pCube1.mesh",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "8f0b2": {
-      "importer": "gltf-scene",
-      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@8f0b2",
-      "displayName": "",
-      "id": "8f0b2",
-      "name": "shuibei.prefab",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.12",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    }
-  },
+  "subMetas": {},
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": false,

@@ -2472,17 +2472,13 @@
       {
         "__uuid__": "d3c7820c-2a98-4429-8bc7-b8453bc9ac41"
       },
-      {
-        "__uuid__": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@55b43"
-      }
+      null
     ],
     "_visFlags": 0,
     "lightmapSettings": {
       "__id__": 95
     },
-    "_mesh": {
-      "__uuid__": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@9ff93"
-    },
+    "_mesh": null,
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,
     "_enableMorph": true,

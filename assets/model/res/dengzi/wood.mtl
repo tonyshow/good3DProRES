@@ -16,19 +16,26 @@
   ],
   "_states": [
     {
+      "rasterizerState": {},
+      "depthStencilState": {},
       "blendState": {
         "targets": [
           {}
         ]
-      },
-      "depthStencilState": {},
-      "rasterizerState": {}
+      }
     },
     {},
     {}
   ],
   "_props": [
     {
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 104,
+        "g": 89,
+        "b": 62,
+        "a": 255
+      },
       "mainTexture": {
         "__uuid__": "c50ca30d-cf3a-436d-bba6-4fb3f78ef297@6c48a"
       },

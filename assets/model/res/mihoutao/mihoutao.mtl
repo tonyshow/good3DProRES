@@ -31,12 +31,11 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 67,
+        "r": 40,
         "g": 182,
-        "b": 44,
+        "b": 12,
         "a": 255
       },
-      "roughness": 0.5,
       "emissive": {
         "__type__": "cc.Color",
         "r": 5,

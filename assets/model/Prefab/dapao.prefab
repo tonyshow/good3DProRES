@@ -91,9 +91,9 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 60,
-      "y": 60,
-      "z": 60
+      "x": 50,
+      "y": 50,
+      "z": 50
     },
     "_layer": 1073741824,
     "_euler": {
@@ -162,7 +162,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "fa1b3c1d-811c-4b5b-8270-29d6c76abcfe"
+        "__uuid__": "e287c0c9-2544-475f-8146-6e8d55e42aca"
       }
     ],
     "_visFlags": 0,
@@ -191,7 +191,7 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
+    "_bakeable": true,
     "_castShadow": false,
     "_receiveShadow": false,
     "_recieveShadow": false,
