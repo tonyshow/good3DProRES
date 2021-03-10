@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "27932aaf-4ed9-416e-877f-8d77c7a64d06",
+  "uuid": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9",
   "files": [
     ".png",
     ".json"
@@ -10,8 +10,8 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "27932aaf-4ed9-416e-877f-8d77c7a64d06@6c48a",
-      "displayName": "hand",
+      "uuid": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9@6c48a",
+      "displayName": "icon_hand",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "27932aaf-4ed9-416e-877f-8d77c7a64d06"
+        "imageUuidOrDatabaseUri": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9"
       },
       "ver": "1.0.20",
       "imported": true,
@@ -35,6 +35,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "texture",
-    "redirect": "27932aaf-4ed9-416e-877f-8d77c7a64d06@6c48a"
+    "redirect": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9@6c48a"
   }
 }
