@@ -16,15 +16,14 @@ export class GoodsManager extends Component {
   private offectz = 0; //相机偏移
   private bundle: any = null;
   private mapList: Array<string> = [];
-  private N=100
-  private idx=-1;
+  private N = 100
+  private idx = -1;
   private size = 1;
   @property({ type: Prefab, displayName: "预制体" })
   itemPrefab: Prefab = null;
 
   @property({ type: Node, displayName: "父节点" })
   itemParentNode: Node = null;
-
 
   @property({ type: Node, displayName: "父节点" })
   goodsParent: Node = null;
@@ -33,7 +32,12 @@ export class GoodsManager extends Component {
   @property({ type: Label, displayName: "当前物体名字" })
   currGoodLb: Label = null;
 
-  private timeCtr:any=null;
+  @property({ type: Label, displayName: "加载失败的模型名字" })
+  errorLb: Label = null;
+
+  private timeCtr: any = null;
+  private errInfo: any = {};
+
   start() {
     let cameraHight = this.camera.node.position.y;
     //摄像机旋转角度 _euler
@@ -42,34 +46,40 @@ export class GoodsManager extends Component {
     this.createGoods();
   }
 
-  eveTouchItemCB(name:string){
+  eveTouchItemCB(name: string) {
+    this.errInfo ={};
+    this.errorLb.string = "";
+    this.updateErrLb();
     this.currGoodLb.string = name
     this.stopTime();
     this.eveClearAll();
-    for(let i = 0; i <80;++i){
+    for (let i = 0; i < 80; ++i) {
       this.createGood(name)
     }
   }
 
-  eveAuto(){
+  eveAuto() {
+    this.errInfo ={};
+    this.errorLb.string = "";
+    this.updateErrLb();
     this.eveTouchItemCB(this.mapList[0])
-    this.currGoodLb.string = 1 +":"+ this.mapList[0]
+    this.currGoodLb.string = 1 + ":" + this.mapList[0]
     var idx = 1;
-    this.timeCtr=  setInterval( ()=>{
-      if( idx>=this.mapList.length ){
+    this.timeCtr = setInterval(() => {
+      if (idx >= this.mapList.length) {
         return;
       }
       this.eveClearAll();
-      this.currGoodLb.string =idx+1 +":"+ this.mapList[idx]
-      for(let i = 0; i <80;++i){
+      this.currGoodLb.string = idx + 1 + ":" + this.mapList[idx]
+      for (let i = 0; i < 80; ++i) {
         this.createGood(this.mapList[idx])
       }
       ++idx;
-    },1000 )
+    }, 1000)
   }
 
-  stopTime(){
-    if(!!this.timeCtr){
+  stopTime() {
+    if (!!this.timeCtr) {
       clearInterval(this.timeCtr)
     }
   }
@@ -78,23 +88,21 @@ export class GoodsManager extends Component {
     return new Promise<Bundle>((resolve, reject) => {
       assetManager.loadBundle("http://localhost:7456/assets/model", (err: any, bundle: Bundle) => {
         let _map = bundle.config.paths._map;
-        let listInfo=""
+        let listInfo = ""
         for (let k in _map) {
           if (k.indexOf("Prefab/") != -1) {
             let itemName = k.replace("Prefab/", "")
-            listInfo+=itemName+"#"
+            listInfo += itemName + "#"
             this.mapList.push(itemName)
             let itemNode = instantiate(this.itemPrefab);
             this.itemParentNode.addChild(itemNode)
             let ctr = itemNode.getComponent("ItemCtr");
-            (ctr as ItemCtr).setLb(itemName,this.mapList.length);
-            (ctr as ItemCtr).registerb(this.eveTouchItemCB.bind(this) )
+            (ctr as ItemCtr).setLb(itemName, this.mapList.length);
+            (ctr as ItemCtr).registerb(this.eveTouchItemCB.bind(this))
           }
-
-          this.cntLb.string ="总数:" + this.mapList.length+"个"
+          this.cntLb.string = "总数:" + this.mapList.length + "个"
         }
-
-        this.N=this.mapList.length;
+        this.N = this.mapList.length;
         log(listInfo)
         if (err) {
           resolve(null);
@@ -104,7 +112,6 @@ export class GoodsManager extends Component {
       });
     });
   }
-
   /**
   * 从远程中的bundle中获取预制体
   * @param bundle
@@ -116,21 +123,30 @@ export class GoodsManager extends Component {
     return new Promise<Prefab>((resolve, reject) => {
       this.bundle.load(prefabName + "", Prefab, (err: string, data: Prefab) => {
         if (!!err) {
-          reject(null);
+          error("错误prefabName="+prefabName);
+          error("加载失败" + prefabName)
+          if( this.errInfo[prefabName]==null ){
+            this.errInfo[prefabName]="";
+          }
+          this.updateErrLb();
+          resolve(null);
         } else {
           resolve(data);
         }
       });
     });
   }
-  eveClearAll(){
+  eveClearAll() {
     this.goodsParent.removeAllChildren();
-    this.idx=-1;
+    this.idx = -1;
   }
-  eveLoadAll(){
-  this.stopTime();
-  this.eveClearAll();
-   this.mapList.forEach((name) => {
+  eveLoadAll() {
+    this.errInfo = {};
+    this.errorLb.string = "";
+    this.updateErrLb();
+    this.stopTime();
+    this.eveClearAll();
+    this.mapList.forEach((name) => {
       this.createGood(name);
       this.createGood(name);
     })
@@ -146,12 +162,10 @@ export class GoodsManager extends Component {
     let r = Math.sqrt(1 - y * y);
     let phi = newIdxCnt * inc;
     let pos: Vec3 = new Vec3(Math.cos(phi) * r * this.size, y * this.size, Math.sin(phi) * r * this.size);
-
     let prefab: Prefab = await this.loadRemotePrefabByBundle("Prefab/" + name);
     if (!!prefab) {
       let nodeTmp = instantiate(prefab);
       this.goodsParent.addChild(nodeTmp);
-
       let x = Math.random() > 0.5 ? -1 : 1;
       let y = Math.random() > 0.5 ? -1 : 1;
       let z = Math.random() > 0.5 ? -1 : 1;
@@ -160,25 +174,17 @@ export class GoodsManager extends Component {
         7,
         z * Math.random() * 9 + this.offectz
       );
-      initPost=  pos;
+      initPost = pos;
       nodeTmp.setPosition(initPost);
       nodeTmp.scale = new Vec3(0.15, 0.15, 0.15);
       nodeTmp.setRotationFromEuler(Math.random() * 360, Math.random() * 360, Math.random() * 360)
       tween(nodeTmp).call((nodeTmp: any) => {
       }).start();
-    }else{
-      error("加载失败"+name)
+    } else {
+
     }
   }
-  loadPrefab(strPrefab: string) {
-    return new Promise<Prefab>((resovle, reeject) => {
-      resources.load(strPrefab, Prefab, (err, prefab: Prefab) => {
-        if (err) {
-          resovle(null);
-          return;
-        }
-        resovle(prefab);
-      });
-    });
+  updateErrLb() {
+    this.errorLb.string ="报错模型:"+ JSON.stringify(this.errInfo);
   }
 }
