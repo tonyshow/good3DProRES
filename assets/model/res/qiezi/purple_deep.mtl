@@ -29,17 +29,17 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 169,
-        "g": 90,
-        "b": 255,
+        "r": 78,
+        "g": 29,
+        "b": 163,
         "a": 255
       },
-      "metallic": 0.8,
+      "roughness": 0.9,
       "emissive": {
         "__type__": "cc.Color",
-        "r": 8,
+        "r": 2,
         "g": 1,
-        "b": 10,
+        "b": 15,
         "a": 255
       }
     },

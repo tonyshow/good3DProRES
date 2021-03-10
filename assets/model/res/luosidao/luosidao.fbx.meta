@@ -73,6 +73,54 @@
       ],
       "subMetas": {}
     },
+    "b9c9e": {
+      "importer": "gltf-material",
+      "uuid": "67cbe273-7472-4339-8264-c1ba3c5dbe67@b9c9e",
+      "displayName": "",
+      "id": "b9c9e",
+      "name": "aiStandardSurface7.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "65e05": {
+      "importer": "gltf-material",
+      "uuid": "67cbe273-7472-4339-8264-c1ba3c5dbe67@65e05",
+      "displayName": "",
+      "id": "65e05",
+      "name": "lsdao_aiStandardSurface5.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14e04": {
+      "importer": "gltf-material",
+      "uuid": "67cbe273-7472-4339-8264-c1ba3c5dbe67@14e04",
+      "displayName": "",
+      "id": "14e04",
+      "name": "aiStandardSurface6.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
     "1daaf": {
       "importer": "gltf-scene",
       "uuid": "67cbe273-7472-4339-8264-c1ba3c5dbe67@1daaf",
@@ -92,7 +140,7 @@
   },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "67cbe273-7472-4339-8264-c1ba3c5dbe67@1daaf",
     "assetFinder": {
       "meshes": [
@@ -103,13 +151,18 @@
       ],
       "skeletons": [],
       "textures": [],
-      "materials": [],
+      "materials": [
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@b9c9e",
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@65e05",
+        "67cbe273-7472-4339-8264-c1ba3c5dbe67@14e04"
+      ],
       "scenes": [
         "67cbe273-7472-4339-8264-c1ba3c5dbe67@1daaf"
       ]
     },
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }
