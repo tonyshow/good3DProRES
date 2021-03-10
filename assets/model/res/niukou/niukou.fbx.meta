@@ -1,10 +1,44 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "b3b12bc5-245a-4e36-87cb-8f9c431b2c1f",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "682ea": {
+      "importer": "gltf-mesh",
+      "uuid": "b3b12bc5-245a-4e36-87cb-8f9c431b2c1f@682ea",
+      "displayName": "",
+      "id": "682ea",
+      "name": "pCylinder6.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d282": {
+      "importer": "gltf-scene",
+      "uuid": "b3b12bc5-245a-4e36-87cb-8f9c431b2c1f@4d282",
+      "displayName": "",
+      "id": "4d282",
+      "name": "niukou.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": false,
