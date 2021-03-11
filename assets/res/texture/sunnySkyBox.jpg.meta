@@ -30,12 +30,12 @@
         ".json"
       ],
       "subMetas": {
-        "bb97f": {
+        "7d38f": {
           "importer": "texture-cube-face",
-          "uuid": "53275492-3d1e-445b-8879-634d76e2d2a5@b47c0@bb97f",
+          "uuid": "53275492-3d1e-445b-8879-634d76e2d2a5@b47c0@7d38f",
           "displayName": "",
-          "id": "bb97f",
-          "name": "top",
+          "id": "7d38f",
+          "name": "bottom",
           "userData": {},
           "ver": "1.0.0",
           "imported": true,
@@ -45,12 +45,12 @@
           ],
           "subMetas": {}
         },
-        "7d38f": {
+        "bb97f": {
           "importer": "texture-cube-face",
-          "uuid": "53275492-3d1e-445b-8879-634d76e2d2a5@b47c0@7d38f",
+          "uuid": "53275492-3d1e-445b-8879-634d76e2d2a5@b47c0@bb97f",
           "displayName": "",
-          "id": "7d38f",
-          "name": "bottom",
+          "id": "bb97f",
+          "name": "top",
           "userData": {},
           "ver": "1.0.0",
           "imported": true,

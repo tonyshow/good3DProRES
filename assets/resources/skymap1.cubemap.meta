@@ -14,11 +14,11 @@
     "magfilter": "linear",
     "mipfilter": "linear",
     "anisotropy": 0.1,
-    "left": "00dcc4c3-27f8-4d2b-bbd2-d573910d9c36",
-    "right": "4d7b6aca-d286-4424-be8e-6997a23e410b",
-    "top": "c94c5548-87db-4c41-b460-3383fec778e9",
+    "left": "39f84b39-83eb-4708-b382-6a03312b9796",
+    "right": "39f84b39-83eb-4708-b382-6a03312b9796",
+    "top": "39f84b39-83eb-4708-b382-6a03312b9796",
     "bottom": "39f84b39-83eb-4708-b382-6a03312b9796",
-    "front": "495357e1-217f-4dd2-a62f-4ce04a73ecec",
-    "back": "19c14993-d03c-4e5a-bfca-6d8e86d0b913"
+    "front": "39f84b39-83eb-4708-b382-6a03312b9796",
+    "back": "39f84b39-83eb-4708-b382-6a03312b9796"
   }
 }
