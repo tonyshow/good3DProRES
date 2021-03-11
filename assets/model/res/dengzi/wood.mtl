@@ -31,9 +31,18 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 104,
-        "g": 89,
-        "b": 62,
+        "r": 116,
+        "g": 100,
+        "b": 89,
+        "a": 255
+      },
+      "roughness": 0.9,
+      "metallic": 0.8,
+      "emissive": {
+        "__type__": "cc.Color",
+        "r": 15,
+        "g": 13,
+        "b": 12,
         "a": 255
       },
       "mainTexture": {

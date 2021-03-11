@@ -1,28 +1,166 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "35ebe": {
+      "importer": "gltf-mesh",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@35ebe",
+      "displayName": "",
+      "id": "35ebe",
+      "name": "pCylinder1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2c4f": {
+      "importer": "gltf-mesh",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@c2c4f",
+      "displayName": "",
+      "id": "c2c4f",
+      "name": "pCylinder2.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d00": {
+      "importer": "gltf-mesh",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@73d00",
+      "displayName": "",
+      "id": "73d00",
+      "name": "pCylinder3.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a13de": {
+      "importer": "gltf-mesh",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@a13de",
+      "displayName": "",
+      "id": "a13de",
+      "name": "pSphere13.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4508f": {
+      "importer": "gltf-mesh",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@4508f",
+      "displayName": "",
+      "id": "4508f",
+      "name": "pSphere14.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d487": {
+      "importer": "gltf-material",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@7d487",
+      "displayName": "",
+      "id": "7d487",
+      "name": "aiStandardSurface2.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d5a7": {
+      "importer": "gltf-material",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@2d5a7",
+      "displayName": "",
+      "id": "2d5a7",
+      "name": "aiStandardSurface1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1314": {
+      "importer": "gltf-scene",
+      "uuid": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@c1314",
+      "displayName": "",
+      "id": "c1314",
+      "name": "yingtao.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "693d5ce8-1929-42ce-8c37-36c3f2d94c82@c1314",
     "assetFinder": {
       "meshes": [
         "693d5ce8-1929-42ce-8c37-36c3f2d94c82@35ebe",
-        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@a13de",
-        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@4508f",
         "693d5ce8-1929-42ce-8c37-36c3f2d94c82@c2c4f",
-        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@73d00"
+        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@73d00",
+        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@a13de",
+        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@4508f"
       ],
       "skeletons": [],
       "textures": [],
-      "materials": [],
+      "materials": [
+        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@7d487",
+        "693d5ce8-1929-42ce-8c37-36c3f2d94c82@2d5a7"
+      ],
       "scenes": [
         "693d5ce8-1929-42ce-8c37-36c3f2d94c82@c1314"
       ]
-    }
+    },
+    "disableMeshSplit": true
   }
 }

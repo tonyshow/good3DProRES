@@ -29,7 +29,22 @@
   ],
   "_props": [
     {
+      "mainColor": {
+        "__type__": "cc.Color",
+        "r": 255,
+        "g": 254,
+        "b": 240,
+        "a": 255
+      },
+      "roughness": 0.9,
       "metallic": 0.9,
+      "emissive": {
+        "__type__": "cc.Color",
+        "r": 46,
+        "g": 34,
+        "b": 3,
+        "a": 255
+      },
       "mainTexture": {
         "__uuid__": "1630b0e7-1d17-4566-965b-e98408cda735@6c48a"
       },

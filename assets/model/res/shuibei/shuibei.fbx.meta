@@ -1,13 +1,63 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": false,
+  "imported": true,
   "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d",
   "files": [],
-  "subMetas": {},
+  "subMetas": {
+    "febd0": {
+      "importer": "gltf-mesh",
+      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@febd0",
+      "displayName": "",
+      "id": "febd0",
+      "name": "bandeng1:pCube1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "83e97": {
+      "importer": "gltf-material",
+      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@83e97",
+      "displayName": "",
+      "id": "83e97",
+      "name": "bandeng1:aiStandardSurface5.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f0b2": {
+      "importer": "gltf-scene",
+      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@8f0b2",
+      "displayName": "",
+      "id": "8f0b2",
+      "name": "shuibei.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@8f0b2",
     "assetFinder": {
       "meshes": [
@@ -15,13 +65,16 @@
       ],
       "skeletons": [],
       "textures": [],
-      "materials": [],
+      "materials": [
+        "97eb437c-bdcb-4164-9ff9-979a0cc8318d@83e97"
+      ],
       "scenes": [
         "97eb437c-bdcb-4164-9ff9-979a0cc8318d@8f0b2"
       ]
     },
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }
