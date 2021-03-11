@@ -127,7 +127,7 @@
       "__id__": 6
     },
     "_projection": 1,
-    "_priority": 0,
+    "_priority": 1,
     "_fov": 45,
     "_fovAxis": 0,
     "_orthoHeight": 100,
@@ -140,7 +140,7 @@
       "b": 120,
       "a": 255
     },
-    "_depth": 1,
+    "_depth": 10,
     "_stencil": 0,
     "_clearFlags": 14,
     "_rect": {
@@ -176,7 +176,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 20,
+      "y": 19.975,
       "z": 0
     },
     "_lrot": {
@@ -2567,9 +2567,9 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.82,
-      "y": 0.82,
-      "z": 0.82
+      "x": 1.8,
+      "y": 1.8,
+      "z": 1.8
     },
     "_layer": 1073741824,
     "_euler": {
@@ -2593,15 +2593,19 @@
     },
     "_materials": [
       {
-        "__uuid__": "d3c7820c-2a98-4429-8bc7-b8453bc9ac41"
+        "__uuid__": "d3098771-ce65-40ab-a2df-19cbf90d1827"
       },
-      null
+      {
+        "__uuid__": "d3098771-ce65-40ab-a2df-19cbf90d1827"
+      }
     ],
     "_visFlags": 0,
     "lightmapSettings": {
       "__id__": 101
     },
-    "_mesh": null,
+    "_mesh": {
+      "__uuid__": "1263d74c-8167-4928-91a6-4e2672411f47@17020"
+    },
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,
     "_enableMorph": true,
@@ -2768,7 +2772,9 @@
   },
   {
     "__type__": "cc.SkyboxInfo",
-    "_envmap": null,
+    "_envmap": {
+      "__uuid__": "00b5ab7e-582e-472a-98ce-d48586c418f0"
+    },
     "_isRGBE": false,
     "_enabled": true,
     "_useIBL": false

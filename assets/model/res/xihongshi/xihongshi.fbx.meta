@@ -56,6 +56,7 @@
       ],
       "subMetas": {}
     },
+<<<<<<< HEAD
     "b9c9e": {
       "importer": "gltf-material",
       "uuid": "575b7018-c8cf-46af-9c7b-50d01164c2c9@b9c9e",
@@ -88,6 +89,8 @@
       ],
       "subMetas": {}
     },
+=======
+>>>>>>> 77436d11f591c80b7cbca02cb3e05e833112a18d
     "a0367": {
       "importer": "gltf-scene",
       "uuid": "575b7018-c8cf-46af-9c7b-50d01164c2c9@a0367",
