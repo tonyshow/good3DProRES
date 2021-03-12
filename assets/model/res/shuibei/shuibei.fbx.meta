@@ -2,12 +2,12 @@
   "ver": "2.0.10",
   "importer": "fbx",
   "imported": true,
-  "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d",
+  "uuid": "6c525728-a811-4e7b-a3d8-cef5aca7b245",
   "files": [],
   "subMetas": {
     "febd0": {
       "importer": "gltf-mesh",
-      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@febd0",
+      "uuid": "6c525728-a811-4e7b-a3d8-cef5aca7b245@febd0",
       "displayName": "",
       "id": "febd0",
       "name": "bandeng1:pCube1.mesh",
@@ -22,28 +22,9 @@
       ],
       "subMetas": {}
     },
-<<<<<<< HEAD
-    "83e97": {
-      "importer": "gltf-material",
-      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@83e97",
-      "displayName": "",
-      "id": "83e97",
-      "name": "bandeng1:aiStandardSurface5.material",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-=======
->>>>>>> 77436d11f591c80b7cbca02cb3e05e833112a18d
     "8f0b2": {
       "importer": "gltf-scene",
-      "uuid": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@8f0b2",
+      "uuid": "6c525728-a811-4e7b-a3d8-cef5aca7b245@8f0b2",
       "displayName": "",
       "id": "8f0b2",
       "name": "shuibei.prefab",
@@ -60,24 +41,18 @@
   },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": true,
-    "redirect": "97eb437c-bdcb-4164-9ff9-979a0cc8318d@8f0b2",
+    "legacyFbxImporter": false,
+    "redirect": "6c525728-a811-4e7b-a3d8-cef5aca7b245@8f0b2",
     "assetFinder": {
       "meshes": [
-        "97eb437c-bdcb-4164-9ff9-979a0cc8318d@febd0"
+        "6c525728-a811-4e7b-a3d8-cef5aca7b245@febd0"
       ],
       "skeletons": [],
       "textures": [],
-      "materials": [
-        "97eb437c-bdcb-4164-9ff9-979a0cc8318d@83e97"
-      ],
+      "materials": [],
       "scenes": [
-        "97eb437c-bdcb-4164-9ff9-979a0cc8318d@8f0b2"
+        "6c525728-a811-4e7b-a3d8-cef5aca7b245@8f0b2"
       ]
-    },
-    "fbx": {
-      "unitConversion": "hierarchy-level"
-    },
-    "disableMeshSplit": true
+    }
   }
 }
