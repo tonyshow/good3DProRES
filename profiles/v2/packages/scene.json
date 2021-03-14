@@ -66,6 +66,13 @@
           "bottom": 10,
           "left": null,
           "right": 10
+        },
+        "ParticleSystem": {
+          "dock": false,
+          "top": null,
+          "bottom": 10,
+          "left": null,
+          "right": 10
         }
       }
     }

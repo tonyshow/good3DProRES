@@ -5,12 +5,12 @@
   "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48",
   "files": [],
   "subMetas": {
-    "9ff93": {
+    "19a9a": {
       "importer": "gltf-mesh",
-      "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@9ff93",
+      "uuid": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@19a9a",
       "displayName": "",
-      "id": "9ff93",
-      "name": "pSolid1_Material0.mesh",
+      "id": "19a9a",
+      "name": "pSolid1.mesh",
       "userData": {
         "gltfIndex": 0
       },
@@ -73,11 +73,11 @@
   },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "07d4ee21-d875-4cbe-8f93-02b5aa137c48@9a264",
     "assetFinder": {
       "meshes": [
-        "07d4ee21-d875-4cbe-8f93-02b5aa137c48@9ff93"
+        "07d4ee21-d875-4cbe-8f93-02b5aa137c48@19a9a"
       ],
       "skeletons": [],
       "textures": [],
@@ -91,6 +91,7 @@
     },
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }

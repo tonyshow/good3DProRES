@@ -21,12 +21,12 @@
       ],
       "subMetas": {}
     },
-    "7c86f": {
+    "6761a": {
       "importer": "gltf-mesh",
-      "uuid": "f8b60247-6251-4f84-9f9e-2206b8046250@7c86f",
+      "uuid": "f8b60247-6251-4f84-9f9e-2206b8046250@6761a",
       "displayName": "",
-      "id": "7c86f",
-      "name": "pSphere2_Material0.mesh",
+      "id": "6761a",
+      "name": "pSphere2.mesh",
       "userData": {
         "gltfIndex": 0
       },
@@ -38,12 +38,12 @@
       ],
       "subMetas": {}
     },
-    "392a8": {
+    "73d00": {
       "importer": "gltf-mesh",
-      "uuid": "f8b60247-6251-4f84-9f9e-2206b8046250@392a8",
+      "uuid": "f8b60247-6251-4f84-9f9e-2206b8046250@73d00",
       "displayName": "",
-      "id": "392a8",
-      "name": "pCylinder3_Material0.mesh",
+      "id": "73d00",
+      "name": "pCylinder3.mesh",
       "userData": {
         "gltfIndex": 1
       },
@@ -55,12 +55,12 @@
       ],
       "subMetas": {}
     },
-    "43c71": {
+    "bc6c0": {
       "importer": "gltf-embeded-image",
-      "uuid": "f8b60247-6251-4f84-9f9e-2206b8046250@43c71",
+      "uuid": "f8b60247-6251-4f84-9f9e-2206b8046250@bc6c0",
       "displayName": "",
-      "id": "43c71",
-      "name": "file1.image",
+      "id": "bc6c0",
+      "name": "jiaonang_7.png.image",
       "userData": {
         "gltfIndex": 0
       },
@@ -86,7 +86,7 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "f8b60247-6251-4f84-9f9e-2206b8046250@43c71"
+        "imageUuidOrDatabaseUri": "f8b60247-6251-4f84-9f9e-2206b8046250@bc6c0"
       },
       "ver": "1.0.20",
       "imported": true,
@@ -131,16 +131,16 @@
   "userData": {
     "imageMetas": [
       {
-        "name": "file1",
-        "uri": "f8b60247-6251-4f84-9f9e-2206b8046250@43c71"
+        "name": "jiaonang_7.png",
+        "uri": "f8b60247-6251-4f84-9f9e-2206b8046250@bc6c0"
       }
     ],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "f8b60247-6251-4f84-9f9e-2206b8046250@1cb66",
     "assetFinder": {
       "meshes": [
-        "f8b60247-6251-4f84-9f9e-2206b8046250@7c86f",
-        "f8b60247-6251-4f84-9f9e-2206b8046250@392a8"
+        "f8b60247-6251-4f84-9f9e-2206b8046250@6761a",
+        "f8b60247-6251-4f84-9f9e-2206b8046250@73d00"
       ],
       "skeletons": [],
       "textures": [
@@ -156,6 +156,7 @@
     },
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }

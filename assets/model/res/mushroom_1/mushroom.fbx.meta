@@ -22,12 +22,12 @@
       ],
       "subMetas": {}
     },
-    "43c71": {
+    "a0fb4": {
       "importer": "gltf-embeded-image",
-      "uuid": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@43c71",
+      "uuid": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@a0fb4",
       "displayName": "",
-      "id": "43c71",
-      "name": "file1.image",
+      "id": "a0fb4",
+      "name": "texture1.png.image",
       "userData": {
         "gltfIndex": 0
       },
@@ -53,7 +53,7 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@43c71"
+        "imageUuidOrDatabaseUri": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@a0fb4"
       },
       "ver": "1.0.20",
       "imported": true,
@@ -98,11 +98,11 @@
   "userData": {
     "imageMetas": [
       {
-        "name": "file1",
-        "uri": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@43c71"
+        "name": "texture1.png",
+        "uri": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@a0fb4"
       }
     ],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@a51c3",
     "assetFinder": {
       "meshes": [
@@ -124,6 +124,7 @@
     "dumpMaterials": false,
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }

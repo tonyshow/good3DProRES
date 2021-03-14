@@ -1,44 +1,10 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": true,
+  "imported": false,
   "uuid": "8f8a0c4a-57b8-48e2-8717-271f458fd35a",
   "files": [],
-  "subMetas": {
-    "97bef": {
-      "importer": "gltf-mesh",
-      "uuid": "8f8a0c4a-57b8-48e2-8717-271f458fd35a@97bef",
-      "displayName": "",
-      "id": "97bef",
-      "name": "pCylinder15.mesh",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "ad4bc": {
-      "importer": "gltf-scene",
-      "uuid": "8f8a0c4a-57b8-48e2-8717-271f458fd35a@ad4bc",
-      "displayName": "",
-      "id": "ad4bc",
-      "name": "xingxing.prefab",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.12",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    }
-  },
+  "subMetas": {},
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": false,

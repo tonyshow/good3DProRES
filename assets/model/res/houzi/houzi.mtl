@@ -8,7 +8,9 @@
   },
   "_techIdx": 0,
   "_defines": [
-    {},
+    {
+      "USE_ALBEDO_MAP": true
+    },
     {},
     {}
   ],
@@ -27,21 +29,17 @@
   ],
   "_props": [
     {
-      "mainColor": {
-        "__type__": "cc.Color",
-        "r": 255,
-        "g": 128,
-        "b": 158,
-        "a": 255
-      },
       "roughness": 0.9,
       "metallic": 0.8,
       "emissive": {
         "__type__": "cc.Color",
-        "r": 39,
-        "g": 0,
-        "b": 9,
+        "r": 19,
+        "g": 4,
+        "b": 4,
         "a": 255
+      },
+      "mainTexture": {
+        "__uuid__": "6a15ed00-3d9e-4ba7-a73b-262256ff2ff1@6c48a"
       }
     },
     {},

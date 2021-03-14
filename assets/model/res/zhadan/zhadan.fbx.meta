@@ -1,78 +1,10 @@
 {
   "ver": "2.0.10",
   "importer": "fbx",
-  "imported": true,
+  "imported": false,
   "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf",
   "files": [],
-  "subMetas": {
-    "c2c4f": {
-      "importer": "gltf-mesh",
-      "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf@c2c4f",
-      "displayName": "",
-      "id": "c2c4f",
-      "name": "pCylinder2.mesh",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "35ebe": {
-      "importer": "gltf-mesh",
-      "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf@35ebe",
-      "displayName": "",
-      "id": "35ebe",
-      "name": "pCylinder1.mesh",
-      "userData": {
-        "gltfIndex": 1
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "fd456": {
-      "importer": "gltf-mesh",
-      "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf@fd456",
-      "displayName": "",
-      "id": "fd456",
-      "name": "pSphere1.mesh",
-      "userData": {
-        "gltfIndex": 2
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "c1744": {
-      "importer": "gltf-scene",
-      "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf@c1744",
-      "displayName": "",
-      "id": "c1744",
-      "name": "zhadan.prefab",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.12",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    }
-  },
+  "subMetas": {},
   "userData": {
     "imageMetas": [],
     "legacyFbxImporter": false,

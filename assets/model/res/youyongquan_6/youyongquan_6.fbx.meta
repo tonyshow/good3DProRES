@@ -37,12 +37,12 @@
       ],
       "subMetas": {}
     },
-    "ed8a2": {
+    "c85c3": {
       "importer": "gltf-mesh",
-      "uuid": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@ed8a2",
+      "uuid": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@c85c3",
       "displayName": "",
-      "id": "ed8a2",
-      "name": "pTorus1_Material0.mesh",
+      "id": "c85c3",
+      "name": "pTorus1.mesh",
       "userData": {
         "gltfIndex": 0
       },
@@ -169,11 +169,11 @@
   },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@2a309",
     "assetFinder": {
       "meshes": [
-        "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@ed8a2"
+        "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@c85c3"
       ],
       "skeletons": [],
       "textures": [],
@@ -193,6 +193,7 @@
     },
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }

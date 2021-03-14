@@ -1,0 +1,131 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8",
+  "files": [],
+  "subMetas": {
+    "25893": {
+      "importer": "gltf-mesh",
+      "uuid": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@25893",
+      "displayName": "",
+      "id": "25893",
+      "name": "pCube2.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "40527": {
+      "importer": "gltf-material",
+      "uuid": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@40527",
+      "displayName": "",
+      "id": "40527",
+      "name": "aiStandardSurface61.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8bb86": {
+      "importer": "gltf-mesh",
+      "uuid": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@8bb86",
+      "displayName": "",
+      "id": "8bb86",
+      "name": "pCylinder5.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b8162": {
+      "importer": "gltf-mesh",
+      "uuid": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@b8162",
+      "displayName": "",
+      "id": "b8162",
+      "name": "pCube1.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d36ee": {
+      "importer": "gltf-mesh",
+      "uuid": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@d36ee",
+      "displayName": "",
+      "id": "d36ee",
+      "name": "pSphere22.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "34b2c": {
+      "importer": "gltf-scene",
+      "uuid": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@34b2c",
+      "displayName": "",
+      "id": "34b2c",
+      "name": "daxiang.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "disableMeshSplit": true,
+    "redirect": "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@34b2c",
+    "assetFinder": {
+      "meshes": [
+        "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@8bb86",
+        "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@25893",
+        "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@b8162",
+        "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@d36ee"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@40527"
+      ],
+      "scenes": [
+        "4cc8cca3-1522-4a4b-9f80-afe3ffe3e3e8@34b2c"
+      ]
+    }
+  }
+}

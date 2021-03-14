@@ -135,7 +135,7 @@
         "uri": "3753bb67-e8eb-4586-b3c4-70df5058e8d8@43c71"
       }
     ],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "3753bb67-e8eb-4586-b3c4-70df5058e8d8@bd66c",
     "assetFinder": {
       "meshes": [
@@ -156,6 +156,7 @@
     },
     "fbx": {
       "unitConversion": "hierarchy-level"
-    }
+    },
+    "disableMeshSplit": true
   }
 }
