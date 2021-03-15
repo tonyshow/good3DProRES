@@ -37,11 +37,27 @@
         ".json"
       ],
       "subMetas": {}
+    },
+    "b6e78": {
+      "importer": "gltf-material",
+      "uuid": "8f8a0c4a-57b8-48e2-8717-271f458fd35a@b6e78",
+      "displayName": "",
+      "id": "b6e78",
+      "name": "aiStandardSurface41.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
     }
   },
   "userData": {
     "imageMetas": [],
-    "legacyFbxImporter": false,
+    "legacyFbxImporter": true,
     "redirect": "8f8a0c4a-57b8-48e2-8717-271f458fd35a@ad4bc",
     "assetFinder": {
       "meshes": [
@@ -49,10 +65,13 @@
       ],
       "skeletons": [],
       "textures": [],
-      "materials": [],
+      "materials": [
+        "8f8a0c4a-57b8-48e2-8717-271f458fd35a@b6e78"
+      ],
       "scenes": [
         "8f8a0c4a-57b8-48e2-8717-271f458fd35a@ad4bc"
       ]
-    }
+    },
+    "disableMeshSplit": true
   }
 }

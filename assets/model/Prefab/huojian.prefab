@@ -191,7 +191,7 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
+    "_bakeable": true,
     "_castShadow": false,
     "_receiveShadow": false,
     "_recieveShadow": false,
@@ -297,7 +297,7 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
+    "_bakeable": true,
     "_castShadow": false,
     "_receiveShadow": false,
     "_recieveShadow": false,
@@ -400,7 +400,7 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
+    "_bakeable": true,
     "_castShadow": false,
     "_receiveShadow": false,
     "_recieveShadow": false,
