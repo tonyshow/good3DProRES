@@ -1,0 +1,77 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67",
+  "files": [],
+  "subMetas": {
+    "25626": {
+      "importer": "gltf-mesh",
+      "uuid": "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67@25626",
+      "displayName": "",
+      "id": "25626",
+      "name": "JD.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "387e9": {
+      "importer": "gltf-material",
+      "uuid": "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67@387e9",
+      "displayName": "",
+      "id": "387e9",
+      "name": "jidan_aiStandardSurface1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7d89": {
+      "importer": "gltf-scene",
+      "uuid": "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67@e7d89",
+      "displayName": "",
+      "id": "e7d89",
+      "name": "jidan.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "disableMeshSplit": true,
+    "redirect": "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67@e7d89",
+    "assetFinder": {
+      "meshes": [
+        "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67@25626"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67@387e9"
+      ],
+      "scenes": [
+        "8a57e3b3-6ae9-4d5d-a664-5c87d07a0a67@e7d89"
+      ]
+    }
+  }
+}

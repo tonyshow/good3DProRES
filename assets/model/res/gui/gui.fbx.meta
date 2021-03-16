@@ -1,0 +1,77 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0085dc04-beb6-4bac-88a8-5a3abc1b5d98",
+  "files": [],
+  "subMetas": {
+    "1875a": {
+      "importer": "gltf-mesh",
+      "uuid": "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@1875a",
+      "displayName": "",
+      "id": "1875a",
+      "name": "pSphere65.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0da5": {
+      "importer": "gltf-material",
+      "uuid": "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@f0da5",
+      "displayName": "",
+      "id": "f0da5",
+      "name": "aiStandardSurface34.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c7a5": {
+      "importer": "gltf-scene",
+      "uuid": "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@0c7a5",
+      "displayName": "",
+      "id": "0c7a5",
+      "name": "gui.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "disableMeshSplit": true,
+    "redirect": "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@0c7a5",
+    "assetFinder": {
+      "meshes": [
+        "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@1875a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@f0da5"
+      ],
+      "scenes": [
+        "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@0c7a5"
+      ]
+    }
+  }
+}
