@@ -19,7 +19,9 @@ app.mkdirsSync = function (dirname) {
 };
 
 app.main = function () {
-  let all = {};
+  let all = {
+    time:currTime.toLocaleString()
+  };
   app.mkdirsSync('./output/')
   var list = xlsx.parse("./关卡系统.xlsx");
   if (_.size(list) > 0) {
