@@ -2,12 +2,12 @@
   "ver": "1.1.27",
   "importer": "prefab",
   "imported": true,
-  "uuid": "0a4c3142-b997-49cf-8556-b964819cb717",
+  "uuid": "73764cf8-4c2b-4272-b9ed-54d07600a67a",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "Particle_star"
+    "syncNodeName": "Particle"
   }
 }

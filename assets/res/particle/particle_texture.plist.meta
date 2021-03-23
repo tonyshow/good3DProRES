@@ -2,51 +2,51 @@
   "ver": "1.0.2",
   "importer": "particle",
   "imported": true,
-  "uuid": "18467178-686e-4061-b5c4-08a745d8009d",
+  "uuid": "c6abb32c-582c-4477-8058-1251565c5dc5",
   "files": [
     ".plist",
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "totalParticles": 100,
-    "life": 3,
-    "lifeVar": 0,
-    "emissionRate": 33.333333333333336,
-    "duration": -1,
-    "srcBlendFactor": 770,
-    "dstBlendFactor": 771,
+    "totalParticles": 141,
+    "life": 0.72,
+    "lifeVar": 0.4,
+    "emissionRate": 195.83333333333334,
+    "duration": 0.36,
+    "srcBlendFactor": 775,
+    "dstBlendFactor": 1,
     "startColor": {
-      "_val": 4281545727,
+      "_val": 4283187199,
       "r": 255,
-      "g": 51,
-      "b": 51,
+      "g": 63.75,
+      "b": 76.5,
       "a": 255
     },
     "startColorVar": {
-      "_val": 4294967295,
-      "r": 255,
-      "g": 255,
-      "b": 255,
-      "a": 255
+      "_val": 2134061875,
+      "r": 51,
+      "g": 51,
+      "b": 51,
+      "a": 127.5
     },
     "endColor": {
-      "_val": 4290743551,
-      "r": 255,
-      "g": 140.25,
-      "b": 191.25,
+      "_val": 4278190080,
+      "r": 0,
+      "g": 0,
+      "b": 0,
       "a": 255
     },
     "endColorVar": {
-      "_val": 3212799341,
-      "r": 109.64999999999999,
-      "g": 109.64999999999999,
-      "b": 127.5,
-      "a": 191.25
+      "_val": 4278190080,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "a": 255
     },
-    "startSize": 46,
-    "startSizeVar": 27,
-    "endSize": 42,
+    "startSize": 18,
+    "startSizeVar": 10,
+    "endSize": 40,
     "endSizeVar": 0,
     "positionType": 0,
     "sourcePos": {
@@ -54,26 +54,26 @@
       "y": 0
     },
     "posVar": {
-      "x": 800,
-      "y": 800
+      "x": 0,
+      "y": -20
     },
-    "angle": -90,
-    "angleVar": 44,
-    "startSpin": -12,
-    "startSpinVar": 158,
+    "angle": 39,
+    "angleVar": 180,
+    "startSpin": 720,
+    "startSpinVar": 0,
     "endSpin": 0,
     "endSpinVar": 0,
     "emitterMode": 0,
     "gravity": {
-      "x": 0,
-      "y": -50
+      "x": 202,
+      "y": -618
     },
-    "speed": 186,
-    "speedVar": 39,
+    "speed": 600,
+    "speedVar": 119,
     "radialAccel": 0,
-    "radialAccelVar": 15,
-    "tangentialAccel": 0,
-    "tangentialAccelVar": 51,
+    "radialAccelVar": 0,
+    "tangentialAccel": 135,
+    "tangentialAccelVar": 0,
     "rotationIsDir": false,
     "startRadius": 0,
     "startRadiusVar": 0,
@@ -81,6 +81,6 @@
     "endRadiusVar": 0,
     "rotatePerS": 0,
     "rotatePerSVar": 0,
-    "spriteFrameUuid": "eaf6fb97-2f44-4aa4-b8e6-f9011252fb44@f9941"
+    "spriteFrameUuid": ""
   }
 }
