@@ -29,9 +29,9 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 46,
+        "r": 26,
         "g": 82,
-        "b": 26,
+        "b": 35,
         "a": 255
       },
       "roughness": 1,

@@ -54,12 +54,12 @@
       ],
       "subMetas": {}
     },
-    "2d5a7": {
+    "04681": {
       "importer": "gltf-material",
-      "uuid": "bcdefbf0-88d2-4474-8020-06666dc05860@2d5a7",
+      "uuid": "bcdefbf0-88d2-4474-8020-06666dc05860@04681",
       "displayName": "",
-      "id": "2d5a7",
-      "name": "aiStandardSurface1.material",
+      "id": "04681",
+      "name": "citie_aiStandardSurface1.material",
       "userData": {
         "gltfIndex": 2
       },
@@ -116,7 +116,7 @@
       "materials": [
         "bcdefbf0-88d2-4474-8020-06666dc05860@ffc1f",
         "bcdefbf0-88d2-4474-8020-06666dc05860@89e64",
-        "bcdefbf0-88d2-4474-8020-06666dc05860@2d5a7",
+        "bcdefbf0-88d2-4474-8020-06666dc05860@04681",
         "bcdefbf0-88d2-4474-8020-06666dc05860@7d487"
       ],
       "scenes": [

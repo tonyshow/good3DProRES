@@ -111,7 +111,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "8205ea2f-bc61-4622-90af-f50cb0f15f8c@aa825"
+        "__uuid__": "989817b1-9ab1-49a6-b002-a05e94609db9"
       }
     ],
     "_visFlags": 0,
@@ -140,7 +140,7 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
+    "_bakeable": true,
     "_castShadow": true,
     "_receiveShadow": true,
     "_recieveShadow": true,

@@ -5,12 +5,12 @@
   "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8",
   "files": [],
   "subMetas": {
-    "f2d4c": {
+    "0fe86": {
       "importer": "gltf-mesh",
-      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@f2d4c",
+      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@0fe86",
       "displayName": "",
-      "id": "f2d4c",
-      "name": "pSphere33.mesh",
+      "id": "0fe86",
+      "name": "pSphere36.mesh",
       "userData": {
         "gltfIndex": 0
       },
@@ -22,12 +22,12 @@
       ],
       "subMetas": {}
     },
-    "97bef": {
+    "aeec5": {
       "importer": "gltf-mesh",
-      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@97bef",
+      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@aeec5",
       "displayName": "",
-      "id": "97bef",
-      "name": "pCylinder15.mesh",
+      "id": "aeec5",
+      "name": "pSphere35.mesh",
       "userData": {
         "gltfIndex": 1
       },
@@ -39,12 +39,12 @@
       ],
       "subMetas": {}
     },
-    "3c5f7": {
+    "1c1e5": {
       "importer": "gltf-mesh",
-      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@3c5f7",
+      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@1c1e5",
       "displayName": "",
-      "id": "3c5f7",
-      "name": "pSphere32.mesh",
+      "id": "1c1e5",
+      "name": "pSphere34.mesh",
       "userData": {
         "gltfIndex": 2
       },
@@ -56,12 +56,12 @@
       ],
       "subMetas": {}
     },
-    "c24cb": {
+    "bc696": {
       "importer": "gltf-mesh",
-      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@c24cb",
+      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@bc696",
       "displayName": "",
-      "id": "c24cb",
-      "name": "pSphere31.mesh",
+      "id": "bc696",
+      "name": "pCylinder16.mesh",
       "userData": {
         "gltfIndex": 3
       },
@@ -73,12 +73,12 @@
       ],
       "subMetas": {}
     },
-    "5e210": {
+    "76ba2": {
       "importer": "gltf-material",
-      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@5e210",
+      "uuid": "04e79c50-422f-4c74-9a82-75947a2220e8@76ba2",
       "displayName": "",
-      "id": "5e210",
-      "name": "aiStandardSurface42.material",
+      "id": "76ba2",
+      "name": "huangguan_aiStandardSurface42.material",
       "userData": {
         "gltfIndex": 0
       },
@@ -115,15 +115,15 @@
     "redirect": "04e79c50-422f-4c74-9a82-75947a2220e8@5a3ce",
     "assetFinder": {
       "meshes": [
-        "04e79c50-422f-4c74-9a82-75947a2220e8@f2d4c",
-        "04e79c50-422f-4c74-9a82-75947a2220e8@97bef",
-        "04e79c50-422f-4c74-9a82-75947a2220e8@3c5f7",
-        "04e79c50-422f-4c74-9a82-75947a2220e8@c24cb"
+        "04e79c50-422f-4c74-9a82-75947a2220e8@0fe86",
+        "04e79c50-422f-4c74-9a82-75947a2220e8@aeec5",
+        "04e79c50-422f-4c74-9a82-75947a2220e8@1c1e5",
+        "04e79c50-422f-4c74-9a82-75947a2220e8@bc696"
       ],
       "skeletons": [],
       "textures": [],
       "materials": [
-        "04e79c50-422f-4c74-9a82-75947a2220e8@5e210"
+        "04e79c50-422f-4c74-9a82-75947a2220e8@76ba2"
       ],
       "scenes": [
         "04e79c50-422f-4c74-9a82-75947a2220e8@5a3ce"

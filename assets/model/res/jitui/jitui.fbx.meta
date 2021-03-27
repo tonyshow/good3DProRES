@@ -73,12 +73,12 @@
       ],
       "subMetas": {}
     },
-    "14e04": {
+    "e00e9": {
       "importer": "gltf-material",
-      "uuid": "6c459aad-1d0c-45ef-85f7-de1cf27dea55@14e04",
+      "uuid": "6c459aad-1d0c-45ef-85f7-de1cf27dea55@e00e9",
       "displayName": "",
-      "id": "14e04",
-      "name": "aiStandardSurface6.material",
+      "id": "e00e9",
+      "name": "jitui_aiStandardSurface8.material",
       "userData": {
         "gltfIndex": 0
       },
@@ -89,12 +89,12 @@
       ],
       "subMetas": {}
     },
-    "b9c9e": {
+    "3c709": {
       "importer": "gltf-material",
-      "uuid": "6c459aad-1d0c-45ef-85f7-de1cf27dea55@b9c9e",
+      "uuid": "6c459aad-1d0c-45ef-85f7-de1cf27dea55@3c709",
       "displayName": "",
-      "id": "b9c9e",
-      "name": "aiStandardSurface7.material",
+      "id": "3c709",
+      "name": "jitui_aiStandardSurface9.material",
       "userData": {
         "gltfIndex": 1
       },
@@ -136,8 +136,8 @@
       "skeletons": [],
       "textures": [],
       "materials": [
-        "6c459aad-1d0c-45ef-85f7-de1cf27dea55@14e04",
-        "6c459aad-1d0c-45ef-85f7-de1cf27dea55@b9c9e"
+        "6c459aad-1d0c-45ef-85f7-de1cf27dea55@e00e9",
+        "6c459aad-1d0c-45ef-85f7-de1cf27dea55@3c709"
       ],
       "scenes": [
         "6c459aad-1d0c-45ef-85f7-de1cf27dea55@c0b29"

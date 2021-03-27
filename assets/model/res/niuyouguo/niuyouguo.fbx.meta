@@ -56,12 +56,12 @@
       ],
       "subMetas": {}
     },
-    "7d487": {
+    "da082": {
       "importer": "gltf-material",
-      "uuid": "4fb5542b-7edd-4293-a568-cc8a6566d578@7d487",
+      "uuid": "4fb5542b-7edd-4293-a568-cc8a6566d578@da082",
       "displayName": "",
-      "id": "7d487",
-      "name": "aiStandardSurface2.material",
+      "id": "da082",
+      "name": "niuyouguo_aiStandardSurface2.material",
       "userData": {
         "gltfIndex": 0
       },
@@ -72,12 +72,12 @@
       ],
       "subMetas": {}
     },
-    "89e64": {
+    "1f7ee": {
       "importer": "gltf-material",
-      "uuid": "4fb5542b-7edd-4293-a568-cc8a6566d578@89e64",
+      "uuid": "4fb5542b-7edd-4293-a568-cc8a6566d578@1f7ee",
       "displayName": "",
-      "id": "89e64",
-      "name": "aiStandardSurface3.material",
+      "id": "1f7ee",
+      "name": "niuyouguo_aiStandardSurface3.material",
       "userData": {
         "gltfIndex": 1
       },
@@ -88,12 +88,12 @@
       ],
       "subMetas": {}
     },
-    "2d5a7": {
+    "7e1b9": {
       "importer": "gltf-material",
-      "uuid": "4fb5542b-7edd-4293-a568-cc8a6566d578@2d5a7",
+      "uuid": "4fb5542b-7edd-4293-a568-cc8a6566d578@7e1b9",
       "displayName": "",
-      "id": "2d5a7",
-      "name": "aiStandardSurface1.material",
+      "id": "7e1b9",
+      "name": "niuyouguo_aiStandardSurface1.material",
       "userData": {
         "gltfIndex": 2
       },
@@ -134,9 +134,9 @@
       "skeletons": [],
       "textures": [],
       "materials": [
-        "4fb5542b-7edd-4293-a568-cc8a6566d578@7d487",
-        "4fb5542b-7edd-4293-a568-cc8a6566d578@89e64",
-        "4fb5542b-7edd-4293-a568-cc8a6566d578@2d5a7"
+        "4fb5542b-7edd-4293-a568-cc8a6566d578@da082",
+        "4fb5542b-7edd-4293-a568-cc8a6566d578@1f7ee",
+        "4fb5542b-7edd-4293-a568-cc8a6566d578@7e1b9"
       ],
       "scenes": [
         "4fb5542b-7edd-4293-a568-cc8a6566d578@c3068"

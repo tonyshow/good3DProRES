@@ -56,22 +56,6 @@
       ],
       "subMetas": {}
     },
-    "c1744": {
-      "importer": "gltf-scene",
-      "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf@c1744",
-      "displayName": "",
-      "id": "c1744",
-      "name": "zhadan.prefab",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.12",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "89e64": {
       "importer": "gltf-material",
       "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf@89e64",
@@ -114,6 +98,22 @@
         "gltfIndex": 2
       },
       "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1744": {
+      "importer": "gltf-scene",
+      "uuid": "6816f08f-8d9d-4c7e-adec-b183b62244bf@c1744",
+      "displayName": "",
+      "id": "c1744",
+      "name": "zhadan.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"

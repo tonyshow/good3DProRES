@@ -38,14 +38,31 @@
       ],
       "subMetas": {}
     },
-    "26d8c": {
+    "c2c4f": {
       "importer": "gltf-mesh",
-      "uuid": "550d0474-7813-4808-8ddd-b11dc0aa2615@26d8c",
+      "uuid": "550d0474-7813-4808-8ddd-b11dc0aa2615@c2c4f",
       "displayName": "",
-      "id": "26d8c",
-      "name": "jiez_group1_pCylinder2.mesh",
+      "id": "c2c4f",
+      "name": "pCylinder2.mesh",
       "userData": {
         "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35ebe": {
+      "importer": "gltf-mesh",
+      "uuid": "550d0474-7813-4808-8ddd-b11dc0aa2615@35ebe",
+      "displayName": "",
+      "id": "35ebe",
+      "name": "pCylinder1.mesh",
+      "userData": {
+        "gltfIndex": 2
       },
       "ver": "1.1.0",
       "imported": true,
@@ -95,7 +112,8 @@
     "assetFinder": {
       "meshes": [
         "550d0474-7813-4808-8ddd-b11dc0aa2615@73d00",
-        "550d0474-7813-4808-8ddd-b11dc0aa2615@26d8c"
+        "550d0474-7813-4808-8ddd-b11dc0aa2615@c2c4f",
+        "550d0474-7813-4808-8ddd-b11dc0aa2615@35ebe"
       ],
       "skeletons": [],
       "textures": [],

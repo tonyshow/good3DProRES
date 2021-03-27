@@ -12,7 +12,7 @@
       "id": "10677",
       "name": "polySurface13.mesh",
       "userData": {
-        "gltfIndex": 10
+        "gltfIndex": 6
       },
       "ver": "1.1.0",
       "imported": true,
@@ -29,7 +29,7 @@
       "id": "17269",
       "name": "reqiqiu_aiStandardSurface6.material",
       "userData": {
-        "gltfIndex": 7
+        "gltfIndex": 6
       },
       "ver": "1.0.14",
       "imported": true,
@@ -105,74 +105,6 @@
       ],
       "subMetas": {}
     },
-    "9177b": {
-      "importer": "gltf-mesh",
-      "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@9177b",
-      "displayName": "",
-      "id": "9177b",
-      "name": "polySurface6.mesh",
-      "userData": {
-        "gltfIndex": 3
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "ae581": {
-      "importer": "gltf-mesh",
-      "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@ae581",
-      "displayName": "",
-      "id": "ae581",
-      "name": "polySurface9.mesh",
-      "userData": {
-        "gltfIndex": 4
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "de30a": {
-      "importer": "gltf-mesh",
-      "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@de30a",
-      "displayName": "",
-      "id": "de30a",
-      "name": "polySurface12.mesh",
-      "userData": {
-        "gltfIndex": 5
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "8c3a2": {
-      "importer": "gltf-mesh",
-      "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@8c3a2",
-      "displayName": "",
-      "id": "8c3a2",
-      "name": "polySurface3.mesh",
-      "userData": {
-        "gltfIndex": 6
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "3a7b3": {
       "importer": "gltf-mesh",
       "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@3a7b3",
@@ -180,7 +112,7 @@
       "id": "3a7b3",
       "name": "polySurface11.mesh",
       "userData": {
-        "gltfIndex": 7
+        "gltfIndex": 3
       },
       "ver": "1.1.0",
       "imported": true,
@@ -197,7 +129,7 @@
       "id": "01a55",
       "name": "polySurface1.mesh",
       "userData": {
-        "gltfIndex": 8
+        "gltfIndex": 4
       },
       "ver": "1.1.0",
       "imported": true,
@@ -214,7 +146,7 @@
       "id": "967a8",
       "name": "polySurface14.mesh",
       "userData": {
-        "gltfIndex": 9
+        "gltfIndex": 5
       },
       "ver": "1.1.0",
       "imported": true,
@@ -231,7 +163,7 @@
       "id": "8bb86",
       "name": "pCylinder5.mesh",
       "userData": {
-        "gltfIndex": 11
+        "gltfIndex": 7
       },
       "ver": "1.1.0",
       "imported": true,
@@ -248,7 +180,7 @@
       "id": "07b58",
       "name": "pCylinder4.mesh",
       "userData": {
-        "gltfIndex": 12
+        "gltfIndex": 8
       },
       "ver": "1.1.0",
       "imported": true,
@@ -265,7 +197,7 @@
       "id": "73d00",
       "name": "pCylinder3.mesh",
       "userData": {
-        "gltfIndex": 13
+        "gltfIndex": 9
       },
       "ver": "1.1.0",
       "imported": true,
@@ -282,7 +214,7 @@
       "id": "682ea",
       "name": "pCylinder6.mesh",
       "userData": {
-        "gltfIndex": 14
+        "gltfIndex": 10
       },
       "ver": "1.1.0",
       "imported": true,
@@ -299,7 +231,7 @@
       "id": "bd747",
       "name": "polySurface15.mesh",
       "userData": {
-        "gltfIndex": 15
+        "gltfIndex": 11
       },
       "ver": "1.1.0",
       "imported": true,
@@ -341,22 +273,6 @@
       ],
       "subMetas": {}
     },
-    "8d883": {
-      "importer": "gltf-material",
-      "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@8d883",
-      "displayName": "",
-      "id": "8d883",
-      "name": "lambert1.material",
-      "userData": {
-        "gltfIndex": 3
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "41b41": {
       "importer": "gltf-material",
       "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@41b41",
@@ -364,7 +280,7 @@
       "id": "41b41",
       "name": "reqiqiu_aiStandardSurface5.material",
       "userData": {
-        "gltfIndex": 4
+        "gltfIndex": 3
       },
       "ver": "1.0.14",
       "imported": true,
@@ -380,7 +296,7 @@
       "id": "73b74",
       "name": "reqiqiu_aiStandardSurface1.material",
       "userData": {
-        "gltfIndex": 5
+        "gltfIndex": 4
       },
       "ver": "1.0.14",
       "imported": true,
@@ -389,14 +305,14 @@
       ],
       "subMetas": {}
     },
-    "04cf9": {
+    "d651a": {
       "importer": "gltf-material",
-      "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@04cf9",
+      "uuid": "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@d651a",
       "displayName": "",
-      "id": "04cf9",
-      "name": "reqiqiu_aiStandardSurface8.material",
+      "id": "d651a",
+      "name": "aiStandardSurface8.material",
       "userData": {
-        "gltfIndex": 6
+        "gltfIndex": 5
       },
       "ver": "1.0.14",
       "imported": true,
@@ -412,7 +328,7 @@
       "id": "b3a2b",
       "name": "reqiqiu_aiStandardSurface7.material",
       "userData": {
-        "gltfIndex": 8
+        "gltfIndex": 7
       },
       "ver": "1.0.14",
       "imported": true,
@@ -447,10 +363,6 @@
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@f34d3",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@ff420",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@07cbd",
-        "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@9177b",
-        "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@ae581",
-        "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@de30a",
-        "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@8c3a2",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@3a7b3",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@01a55",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@967a8",
@@ -467,10 +379,9 @@
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@8cf29",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@9d4e7",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@76909",
-        "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@8d883",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@41b41",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@73b74",
-        "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@04cf9",
+        "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@d651a",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@17269",
         "075a3a23-7f24-4eaa-aacc-e8587ebaf05f@b3a2b"
       ],

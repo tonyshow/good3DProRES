@@ -5,12 +5,12 @@
   "uuid": "d7e54f1d-0b79-48d1-a946-f94af1476c37",
   "files": [],
   "subMetas": {
-    "f34d3": {
+    "35ebe": {
       "importer": "gltf-mesh",
-      "uuid": "d7e54f1d-0b79-48d1-a946-f94af1476c37@f34d3",
+      "uuid": "d7e54f1d-0b79-48d1-a946-f94af1476c37@35ebe",
       "displayName": "",
-      "id": "f34d3",
-      "name": "polySurface4.mesh",
+      "id": "35ebe",
+      "name": "pCylinder1.mesh",
       "userData": {
         "gltfIndex": 0
       },
@@ -22,12 +22,12 @@
       ],
       "subMetas": {}
     },
-    "8c3a2": {
+    "db573": {
       "importer": "gltf-mesh",
-      "uuid": "d7e54f1d-0b79-48d1-a946-f94af1476c37@8c3a2",
+      "uuid": "d7e54f1d-0b79-48d1-a946-f94af1476c37@db573",
       "displayName": "",
-      "id": "8c3a2",
-      "name": "polySurface3.mesh",
+      "id": "db573",
+      "name": "polySurface2.mesh",
       "userData": {
         "gltfIndex": 1
       },
@@ -94,8 +94,8 @@
     "redirect": "d7e54f1d-0b79-48d1-a946-f94af1476c37@2cfb9",
     "assetFinder": {
       "meshes": [
-        "d7e54f1d-0b79-48d1-a946-f94af1476c37@f34d3",
-        "d7e54f1d-0b79-48d1-a946-f94af1476c37@8c3a2"
+        "d7e54f1d-0b79-48d1-a946-f94af1476c37@35ebe",
+        "d7e54f1d-0b79-48d1-a946-f94af1476c37@db573"
       ],
       "skeletons": [],
       "textures": [],

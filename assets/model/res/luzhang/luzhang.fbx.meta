@@ -105,12 +105,12 @@
       ],
       "subMetas": {}
     },
-    "89e64": {
+    "ec2c0": {
       "importer": "gltf-material",
-      "uuid": "9d21956c-4fdf-4fae-b313-27342f50e66a@89e64",
+      "uuid": "9d21956c-4fdf-4fae-b313-27342f50e66a@ec2c0",
       "displayName": "",
-      "id": "89e64",
-      "name": "aiStandardSurface3.material",
+      "id": "ec2c0",
+      "name": "luzhang_aiStandardSurface3.material",
       "userData": {
         "gltfIndex": 1
       },
@@ -138,7 +138,7 @@
       "textures": [],
       "materials": [
         "9d21956c-4fdf-4fae-b313-27342f50e66a@ffc1f",
-        "9d21956c-4fdf-4fae-b313-27342f50e66a@89e64"
+        "9d21956c-4fdf-4fae-b313-27342f50e66a@ec2c0"
       ],
       "scenes": [
         "9d21956c-4fdf-4fae-b313-27342f50e66a@83057"

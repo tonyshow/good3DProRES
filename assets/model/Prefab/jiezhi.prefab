@@ -23,7 +23,7 @@
     "_active": true,
     "_components": [],
     "_prefab": {
-      "__id__": 14
+      "__id__": 21
     },
     "_lpos": {
       "__type__": "cc.Vec3",
@@ -63,66 +63,69 @@
     "_children": [
       {
         "__id__": 3
-      },
-      {
-        "__id__": 8
       }
     ],
     "_active": true,
     "_components": [],
     "_prefab": {
-      "__id__": 13
+      "__id__": 20
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -0.012,
+      "x": 0,
       "y": 0,
-      "z": -1
+      "z": 0.752
     },
     "_lrot": {
       "__type__": "cc.Quat",
-      "x": 0.4999999999999999,
+      "x": -0.4999999999999999,
       "y": 0.5,
-      "z": 0.5,
+      "z": -0.5,
       "w": 0.5000000000000001
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 100,
-      "y": 100,
-      "z": 100
+      "x": 96,
+      "y": 96,
+      "z": 96
     },
     "_layer": 1073741824,
     "_euler": {
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 90,
-      "z": 90
+      "z": -90
     },
     "_id": ""
   },
   {
     "__type__": "cc.Node",
-    "_name": "jiez_group1_pCylinder2",
+    "_name": "jiez_group1",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
     },
-    "_children": [],
-    "_active": true,
-    "_components": [
+    "_children": [
       {
         "__id__": 4
+      },
+      {
+        "__id__": 9
+      },
+      {
+        "__id__": 14
       }
     ],
+    "_active": true,
+    "_components": [],
     "_prefab": {
-      "__id__": 7
+      "__id__": 19
     },
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
-      "z": 6.34770440459798e-19
+      "y": 0.00803098268806934,
+      "z": 1.27054939248246e-23
     },
     "_lrot": {
       "__type__": "cc.Quat",
@@ -147,105 +150,47 @@
     "_id": ""
   },
   {
-    "__type__": "cc.MeshRenderer",
-    "_name": "",
-    "_objFlags": 0,
-    "node": {
-      "__id__": 3
-    },
-    "_enabled": true,
-    "__prefab": {
-      "__id__": 5
-    },
-    "_materials": [
-      {
-        "__uuid__": "498346a7-9140-422f-8748-5db2e2ad9418"
-      }
-    ],
-    "_visFlags": 0,
-    "lightmapSettings": {
-      "__id__": 6
-    },
-    "_mesh": {
-      "__uuid__": "550d0474-7813-4808-8ddd-b11dc0aa2615@26d8c"
-    },
-    "_shadowCastingMode": 0,
-    "_shadowReceivingMode": 1,
-    "_enableMorph": true,
-    "_id": ""
-  },
-  {
-    "__type__": "cc.CompPrefabInfo",
-    "fileId": "4dq0vDzO5bYZ2+ko/fKo/I"
-  },
-  {
-    "__type__": "cc.ModelLightmapSettings",
-    "texture": null,
-    "uvParam": {
-      "__type__": "cc.Vec4",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 0
-    },
-    "_bakeable": false,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
-    "_lightmapSize": 64
-  },
-  {
-    "__type__": "cc.PrefabInfo",
-    "root": {
-      "__id__": 1
-    },
-    "asset": {
-      "__id__": 0
-    },
-    "fileId": "d2Kjn/xr1bLrmIpv2/vbhQ"
-  },
-  {
     "__type__": "cc.Node",
     "_name": "pCylinder3",
     "_objFlags": 0,
     "_parent": {
-      "__id__": 2
+      "__id__": 3
     },
     "_children": [],
     "_active": true,
     "_components": [
       {
-        "__id__": 9
+        "__id__": 5
       }
     ],
     "_prefab": {
-      "__id__": 12
+      "__id__": 8
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -9.093235615555354e-10,
-      "y": 0.020573220818945397,
-      "z": 3.240649514143698e-10
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "_lrot": {
       "__type__": "cc.Quat",
-      "x": -3.0616171314629196e-17,
-      "y": -2.1549901203413867e-48,
+      "x": 0,
+      "y": 0,
       "z": 0,
       "w": 1
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 0.14848772012460837,
-      "y": 0.024002091640191292,
-      "z": 0.1587542697586031
+      "x": 1,
+      "y": 1,
+      "z": 1
     },
     "_layer": 1073741824,
     "_euler": {
       "__type__": "cc.Vec3",
-      "x": -3.5083548023555002e-15,
-      "y": -2.4694367757590165e-46,
-      "z": 7.560469937728362e-63
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "_id": ""
   },
@@ -254,11 +199,11 @@
     "_name": "",
     "_objFlags": 0,
     "node": {
-      "__id__": 8
+      "__id__": 4
     },
     "_enabled": true,
     "__prefab": {
-      "__id__": 10
+      "__id__": 6
     },
     "_materials": [
       {
@@ -267,7 +212,7 @@
     ],
     "_visFlags": 0,
     "lightmapSettings": {
-      "__id__": 11
+      "__id__": 7
     },
     "_mesh": {
       "__uuid__": "550d0474-7813-4808-8ddd-b11dc0aa2615@73d00"
@@ -306,6 +251,222 @@
       "__id__": 0
     },
     "fileId": "29bAaSc85am74l6R+81GXI"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "pCylinder2",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 3
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 10
+      }
+    ],
+    "_prefab": {
+      "__id__": 13
+    },
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_layer": 1073741824,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.MeshRenderer",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 9
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 11
+    },
+    "_materials": [
+      {
+        "__uuid__": "48920e7c-ed53-4dc2-8a7d-b59dd6b9e3b0"
+      }
+    ],
+    "_visFlags": 0,
+    "lightmapSettings": {
+      "__id__": 12
+    },
+    "_mesh": {
+      "__uuid__": "550d0474-7813-4808-8ddd-b11dc0aa2615@c2c4f"
+    },
+    "_shadowCastingMode": 0,
+    "_shadowReceivingMode": 1,
+    "_enableMorph": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "59c22Y2V5Q9YhKD3/Y7S6R"
+  },
+  {
+    "__type__": "cc.ModelLightmapSettings",
+    "texture": null,
+    "uvParam": {
+      "__type__": "cc.Vec4",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "_bakeable": false,
+    "_castShadow": false,
+    "_receiveShadow": false,
+    "_recieveShadow": false,
+    "_lightmapSize": 64
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "caH2pp6IxVpolv9NF9DOSy"
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "pCylinder1",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 3
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 15
+      }
+    ],
+    "_prefab": {
+      "__id__": 18
+    },
+    "_lpos": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_lrot": {
+      "__type__": "cc.Quat",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 1
+    },
+    "_lscale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "_layer": 1073741824,
+    "_euler": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.MeshRenderer",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 14
+    },
+    "_enabled": true,
+    "__prefab": {
+      "__id__": 16
+    },
+    "_materials": [
+      {
+        "__uuid__": "48920e7c-ed53-4dc2-8a7d-b59dd6b9e3b0"
+      }
+    ],
+    "_visFlags": 0,
+    "lightmapSettings": {
+      "__id__": 17
+    },
+    "_mesh": {
+      "__uuid__": "550d0474-7813-4808-8ddd-b11dc0aa2615@35ebe"
+    },
+    "_shadowCastingMode": 0,
+    "_shadowReceivingMode": 1,
+    "_enableMorph": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.CompPrefabInfo",
+    "fileId": "22VgKmSbdWzpklU4lT5imZ"
+  },
+  {
+    "__type__": "cc.ModelLightmapSettings",
+    "texture": null,
+    "uvParam": {
+      "__type__": "cc.Vec4",
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "w": 0
+    },
+    "_bakeable": false,
+    "_castShadow": false,
+    "_receiveShadow": false,
+    "_recieveShadow": false,
+    "_lightmapSize": 64
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "accpGKzpJVY6gLX/C/h1WM"
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "db8ciHK9dYs5i/Cltspn6u"
   },
   {
     "__type__": "cc.PrefabInfo",
