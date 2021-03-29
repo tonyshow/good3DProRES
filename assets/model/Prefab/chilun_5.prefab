@@ -85,9 +85,9 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 70,
-      "y": 70,
-      "z": 70
+      "x": 66,
+      "y": 66,
+      "z": 66
     },
     "_layer": 1073741824,
     "_euler": {
@@ -111,7 +111,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "8d4c0272-573c-4eaa-ac09-fb705e034e83@7a3ca"
+        "__uuid__": "fea47f12-dc5d-4f60-9723-5eadbdf88298"
       }
     ],
     "_visFlags": 0,

@@ -77,7 +77,7 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": 1.05
+      "z": 0.995
     },
     "_lrot": {
       "__type__": "cc.Quat",
@@ -210,7 +210,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "d42602ea-3926-42e2-9f67-84d85b135e3b"
+        "__uuid__": "e52aa573-77e9-4035-98e5-b9ed151862ac"
       }
     ],
     "_visFlags": 0,
@@ -239,10 +239,10 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
+    "_bakeable": true,
+    "_castShadow": true,
+    "_receiveShadow": true,
+    "_recieveShadow": true,
     "_lightmapSize": 64
   },
   {
@@ -342,10 +342,10 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
+    "_bakeable": true,
+    "_castShadow": true,
+    "_receiveShadow": true,
+    "_recieveShadow": true,
     "_lightmapSize": 64
   },
   {
@@ -378,7 +378,7 @@
     "_lpos": {
       "__type__": "cc.Vec3",
       "x": 0,
-      "y": 0,
+      "y": -0.001,
       "z": 0
     },
     "_lrot": {
@@ -445,10 +445,10 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
+    "_bakeable": true,
+    "_castShadow": true,
+    "_receiveShadow": true,
+    "_recieveShadow": true,
     "_lightmapSize": 64
   },
   {
@@ -473,7 +473,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "group7_pasted__group_pasted__pasted__group6_pasted__pasted__pSphere16_pasted__pasted__polySurface21",
+    "_name": "group11_pasted__pSphere15",
     "_objFlags": 0,
     "_parent": {
       "__id__": 2
@@ -492,7 +492,7 @@
       "__type__": "cc.Vec3",
       "x": 0,
       "y": 0,
-      "z": 5.89805988035969e-19
+      "z": 5.63785109012947e-19
     },
     "_lrot": {
       "__type__": "cc.Quat",
@@ -529,25 +529,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
-      },
-      {
-        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
-      },
-      {
-        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
-      },
-      {
-        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
-      },
-      {
-        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
-      },
-      {
-        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
-      },
-      {
-        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
+        "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@8d883"
       }
     ],
     "_visFlags": 0,
@@ -555,7 +537,7 @@
       "__id__": 23
     },
     "_mesh": {
-      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@64868"
+      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@7f4b6"
     },
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,
@@ -564,7 +546,7 @@
   },
   {
     "__type__": "cc.CompPrefabInfo",
-    "fileId": "0fIIt2rPdQrYofyVy4GKn+"
+    "fileId": "daub5Kr5BXarq+v74I46Jg"
   },
   {
     "__type__": "cc.ModelLightmapSettings",
@@ -576,10 +558,10 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
+    "_bakeable": true,
+    "_castShadow": true,
+    "_receiveShadow": true,
+    "_recieveShadow": true,
     "_lightmapSize": 64
   },
   {
@@ -590,7 +572,7 @@
     "asset": {
       "__id__": 0
     },
-    "fileId": "baTvSiVa1R2agCQrEOhz0k"
+    "fileId": "10LHandrBXK79vOnhuDQgt"
   },
   {
     "__type__": "cc.PrefabInfo",

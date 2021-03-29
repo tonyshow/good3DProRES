@@ -85,9 +85,9 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 48,
-      "y": 48,
-      "z": 48
+      "x": 56,
+      "y": 56,
+      "z": 56
     },
     "_layer": 1073741824,
     "_euler": {
@@ -156,28 +156,28 @@
     },
     "_materials": [
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@e8371"
+        "__uuid__": "a8e9dc90-66f0-4e89-a432-163636eb0db1"
       },
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@05e44"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       },
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@70762"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       },
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@06caa"
+        "__uuid__": "a8e9dc90-66f0-4e89-a432-163636eb0db1"
       },
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@cd5f3"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       },
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@84088"
+        "__uuid__": "a8e9dc90-66f0-4e89-a432-163636eb0db1"
       },
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@0119d"
+        "__uuid__": "3f7f2b73-3f70-4ffd-a887-d07a7aa97abe"
       },
       {
-        "__uuid__": "c3a95ae8-24d7-4c0b-b485-73f954eb04d5@2167a"
+        "__uuid__": "a8e9dc90-66f0-4e89-a432-163636eb0db1"
       }
     ],
     "_visFlags": 0,

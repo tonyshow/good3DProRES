@@ -1,0 +1,130 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "12166838-b173-4dec-8bde-3f1b99b1957f",
+  "files": [],
+  "subMetas": {
+    "73d00": {
+      "importer": "gltf-mesh",
+      "uuid": "12166838-b173-4dec-8bde-3f1b99b1957f@73d00",
+      "displayName": "",
+      "id": "73d00",
+      "name": "pCylinder3.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2c4f": {
+      "importer": "gltf-mesh",
+      "uuid": "12166838-b173-4dec-8bde-3f1b99b1957f@c2c4f",
+      "displayName": "",
+      "id": "c2c4f",
+      "name": "pCylinder2.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fd456": {
+      "importer": "gltf-mesh",
+      "uuid": "12166838-b173-4dec-8bde-3f1b99b1957f@fd456",
+      "displayName": "",
+      "id": "fd456",
+      "name": "pSphere1.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e7a3": {
+      "importer": "gltf-material",
+      "uuid": "12166838-b173-4dec-8bde-3f1b99b1957f@8e7a3",
+      "displayName": "",
+      "id": "8e7a3",
+      "name": "gt_aiStandardSurface3.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a0e0c": {
+      "importer": "gltf-material",
+      "uuid": "12166838-b173-4dec-8bde-3f1b99b1957f@a0e0c",
+      "displayName": "",
+      "id": "a0e0c",
+      "name": "gt_aiStandardSurface2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a844d": {
+      "importer": "gltf-scene",
+      "uuid": "12166838-b173-4dec-8bde-3f1b99b1957f@a844d",
+      "displayName": "",
+      "id": "a844d",
+      "name": "gunlun.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "disableMeshSplit": true,
+    "redirect": "12166838-b173-4dec-8bde-3f1b99b1957f@a844d",
+    "assetFinder": {
+      "meshes": [
+        "12166838-b173-4dec-8bde-3f1b99b1957f@73d00",
+        "12166838-b173-4dec-8bde-3f1b99b1957f@c2c4f",
+        "12166838-b173-4dec-8bde-3f1b99b1957f@fd456"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "12166838-b173-4dec-8bde-3f1b99b1957f@8e7a3",
+        "12166838-b173-4dec-8bde-3f1b99b1957f@a0e0c"
+      ],
+      "scenes": [
+        "12166838-b173-4dec-8bde-3f1b99b1957f@a844d"
+      ]
+    }
+  }
+}

@@ -29,18 +29,18 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 14,
-        "g": 13,
-        "b": 39,
+        "r": 12,
+        "g": 11,
+        "b": 34,
         "a": 255
       },
       "roughness": 0.9,
       "metallic": 0.9,
       "emissive": {
         "__type__": "cc.Color",
-        "r": 8,
+        "r": 5,
         "g": 0,
-        "b": 14,
+        "b": 8,
         "a": 255
       }
     },

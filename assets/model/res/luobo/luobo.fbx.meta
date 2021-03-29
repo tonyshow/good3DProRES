@@ -5,12 +5,12 @@
   "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b",
   "files": [],
   "subMetas": {
-    "868bc": {
+    "c3d37": {
       "importer": "gltf-mesh",
-      "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b@868bc",
+      "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b@c3d37",
       "displayName": "",
-      "id": "868bc",
-      "name": "pSphere15.mesh",
+      "id": "c3d37",
+      "name": "pCone11.mesh",
       "userData": {
         "gltfIndex": 0
       },
@@ -22,29 +22,12 @@
       ],
       "subMetas": {}
     },
-    "725a6": {
-      "importer": "gltf-mesh",
-      "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b@725a6",
-      "displayName": "",
-      "id": "725a6",
-      "name": "pCone13.mesh",
-      "userData": {
-        "gltfIndex": 1
-      },
-      "ver": "1.1.0",
-      "imported": true,
-      "files": [
-        ".bin",
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "0764a": {
+    "05477": {
       "importer": "gltf-material",
-      "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b@0764a",
+      "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b@05477",
       "displayName": "",
-      "id": "0764a",
-      "name": "aiStandardSurface15.material",
+      "id": "05477",
+      "name": "luobo_aiStandardSurface14.material",
       "userData": {
         "gltfIndex": 0
       },
@@ -55,12 +38,12 @@
       ],
       "subMetas": {}
     },
-    "e8375": {
+    "2d5d5": {
       "importer": "gltf-material",
-      "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b@e8375",
+      "uuid": "908ad2c7-0c19-4627-85c2-951b1704150b@2d5d5",
       "displayName": "",
-      "id": "e8375",
-      "name": "aiStandardSurface14.material",
+      "id": "2d5d5",
+      "name": "luobo_aiStandardSurface15.material",
       "userData": {
         "gltfIndex": 1
       },
@@ -94,14 +77,13 @@
     "redirect": "908ad2c7-0c19-4627-85c2-951b1704150b@8dff4",
     "assetFinder": {
       "meshes": [
-        "908ad2c7-0c19-4627-85c2-951b1704150b@868bc",
-        "908ad2c7-0c19-4627-85c2-951b1704150b@725a6"
+        "908ad2c7-0c19-4627-85c2-951b1704150b@c3d37"
       ],
       "skeletons": [],
       "textures": [],
       "materials": [
-        "908ad2c7-0c19-4627-85c2-951b1704150b@0764a",
-        "908ad2c7-0c19-4627-85c2-951b1704150b@e8375"
+        "908ad2c7-0c19-4627-85c2-951b1704150b@05477",
+        "908ad2c7-0c19-4627-85c2-951b1704150b@2d5d5"
       ],
       "scenes": [
         "908ad2c7-0c19-4627-85c2-951b1704150b@8dff4"

@@ -39,12 +39,12 @@
       ],
       "subMetas": {}
     },
-    "7d487": {
+    "2f3d6": {
       "importer": "gltf-material",
-      "uuid": "2ebae9b1-6713-4141-ab6f-fee062870ae4@7d487",
+      "uuid": "2ebae9b1-6713-4141-ab6f-fee062870ae4@2f3d6",
       "displayName": "",
-      "id": "7d487",
-      "name": "aiStandardSurface2.material",
+      "id": "2f3d6",
+      "name": "juzi_aiStandardSurface3.material",
       "userData": {
         "gltfIndex": 0
       },
@@ -55,12 +55,12 @@
       ],
       "subMetas": {}
     },
-    "89e64": {
+    "53b55": {
       "importer": "gltf-material",
-      "uuid": "2ebae9b1-6713-4141-ab6f-fee062870ae4@89e64",
+      "uuid": "2ebae9b1-6713-4141-ab6f-fee062870ae4@53b55",
       "displayName": "",
-      "id": "89e64",
-      "name": "aiStandardSurface3.material",
+      "id": "53b55",
+      "name": "juzi_aiStandardSurface4.material",
       "userData": {
         "gltfIndex": 1
       },
@@ -104,8 +104,8 @@
       "skeletons": [],
       "textures": [],
       "materials": [
-        "2ebae9b1-6713-4141-ab6f-fee062870ae4@7d487",
-        "2ebae9b1-6713-4141-ab6f-fee062870ae4@89e64"
+        "2ebae9b1-6713-4141-ab6f-fee062870ae4@2f3d6",
+        "2ebae9b1-6713-4141-ab6f-fee062870ae4@53b55"
       ],
       "scenes": [
         "2ebae9b1-6713-4141-ab6f-fee062870ae4@031a2"

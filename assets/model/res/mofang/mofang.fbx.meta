@@ -12,7 +12,7 @@
       "id": "57896",
       "name": "aiStandardSurface31.material",
       "userData": {
-        "gltfIndex": 1
+        "gltfIndex": 0
       },
       "ver": "1.0.14",
       "imported": true,
@@ -21,12 +21,12 @@
       ],
       "subMetas": {}
     },
-    "de30a": {
+    "35bf7": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@de30a",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@35bf7",
       "displayName": "",
-      "id": "de30a",
-      "name": "polySurface12.mesh",
+      "id": "35bf7",
+      "name": "pasted__pCube21-0.mesh",
       "userData": {
         "gltfIndex": 0
       },
@@ -38,12 +38,12 @@
       ],
       "subMetas": {}
     },
-    "967a8": {
+    "0a276": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@967a8",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@0a276",
       "displayName": "",
-      "id": "967a8",
-      "name": "polySurface14.mesh",
+      "id": "0a276",
+      "name": "pasted__pasted__pasted__pCube21-1.mesh",
       "userData": {
         "gltfIndex": 1
       },
@@ -55,12 +55,12 @@
       ],
       "subMetas": {}
     },
-    "3a7b3": {
+    "b92ac": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@3a7b3",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@b92ac",
       "displayName": "",
-      "id": "3a7b3",
-      "name": "polySurface11.mesh",
+      "id": "b92ac",
+      "name": "pasted__pasted__pasted__pCube21-2.mesh",
       "userData": {
         "gltfIndex": 2
       },
@@ -72,12 +72,12 @@
       ],
       "subMetas": {}
     },
-    "ae581": {
+    "8f8d3": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@ae581",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@8f8d3",
       "displayName": "",
-      "id": "ae581",
-      "name": "polySurface9.mesh",
+      "id": "8f8d3",
+      "name": "pasted__pasted__pCube21-3.mesh",
       "userData": {
         "gltfIndex": 3
       },
@@ -89,12 +89,12 @@
       ],
       "subMetas": {}
     },
-    "bd747": {
+    "ce5f1": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@bd747",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@ce5f1",
       "displayName": "",
-      "id": "bd747",
-      "name": "polySurface15.mesh",
+      "id": "ce5f1",
+      "name": "pasted__pasted__pasted__pCube21-4.mesh",
       "userData": {
         "gltfIndex": 4
       },
@@ -106,12 +106,12 @@
       ],
       "subMetas": {}
     },
-    "fe410": {
+    "7b737": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@fe410",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@7b737",
       "displayName": "",
-      "id": "fe410",
-      "name": "polySurface5.mesh",
+      "id": "7b737",
+      "name": "pasted__pasted__pCube21-5.mesh",
       "userData": {
         "gltfIndex": 5
       },
@@ -123,12 +123,12 @@
       ],
       "subMetas": {}
     },
-    "8c3a2": {
+    "feb7b": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@8c3a2",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@feb7b",
       "displayName": "",
-      "id": "8c3a2",
-      "name": "polySurface3.mesh",
+      "id": "feb7b",
+      "name": "pasted__pasted__pCube21-6.mesh",
       "userData": {
         "gltfIndex": 6
       },
@@ -140,12 +140,12 @@
       ],
       "subMetas": {}
     },
-    "9177b": {
+    "6b15b": {
       "importer": "gltf-mesh",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@9177b",
+      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@6b15b",
       "displayName": "",
-      "id": "9177b",
-      "name": "polySurface6.mesh",
+      "id": "6b15b",
+      "name": "pasted__pasted__pasted__pasted__pCube21-7.mesh",
       "userData": {
         "gltfIndex": 7
       },
@@ -157,22 +157,6 @@
       ],
       "subMetas": {}
     },
-    "6d1bb": {
-      "importer": "gltf-material",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@6d1bb",
-      "displayName": "",
-      "id": "6d1bb",
-      "name": "aiStandardSurface36.material",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "a1559": {
       "importer": "gltf-material",
       "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@a1559",
@@ -180,71 +164,7 @@
       "id": "a1559",
       "name": "aiStandardSurface29.material",
       "userData": {
-        "gltfIndex": 2
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "fa029": {
-      "importer": "gltf-material",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@fa029",
-      "displayName": "",
-      "id": "fa029",
-      "name": "aiStandardSurface30.material",
-      "userData": {
-        "gltfIndex": 3
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "adc5d": {
-      "importer": "gltf-material",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@adc5d",
-      "displayName": "",
-      "id": "adc5d",
-      "name": "aiStandardSurface37.material",
-      "userData": {
-        "gltfIndex": 4
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "f0da5": {
-      "importer": "gltf-material",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@f0da5",
-      "displayName": "",
-      "id": "f0da5",
-      "name": "aiStandardSurface34.material",
-      "userData": {
-        "gltfIndex": 5
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "18b58": {
-      "importer": "gltf-material",
-      "uuid": "c04dc09c-1825-40e1-b238-4498923f2384@18b58",
-      "displayName": "",
-      "id": "18b58",
-      "name": "aiStandardSurface33.material",
-      "userData": {
-        "gltfIndex": 6
+        "gltfIndex": 1
       },
       "ver": "1.0.14",
       "imported": true,
@@ -260,7 +180,7 @@
       "id": "f1433",
       "name": "aiStandardSurface32.material",
       "userData": {
-        "gltfIndex": 7
+        "gltfIndex": 2
       },
       "ver": "1.0.14",
       "imported": true,
@@ -295,25 +215,20 @@
     "redirect": "c04dc09c-1825-40e1-b238-4498923f2384@6d1d2",
     "assetFinder": {
       "meshes": [
-        "c04dc09c-1825-40e1-b238-4498923f2384@de30a",
-        "c04dc09c-1825-40e1-b238-4498923f2384@967a8",
-        "c04dc09c-1825-40e1-b238-4498923f2384@3a7b3",
-        "c04dc09c-1825-40e1-b238-4498923f2384@ae581",
-        "c04dc09c-1825-40e1-b238-4498923f2384@bd747",
-        "c04dc09c-1825-40e1-b238-4498923f2384@fe410",
-        "c04dc09c-1825-40e1-b238-4498923f2384@8c3a2",
-        "c04dc09c-1825-40e1-b238-4498923f2384@9177b"
+        "c04dc09c-1825-40e1-b238-4498923f2384@35bf7",
+        "c04dc09c-1825-40e1-b238-4498923f2384@0a276",
+        "c04dc09c-1825-40e1-b238-4498923f2384@b92ac",
+        "c04dc09c-1825-40e1-b238-4498923f2384@8f8d3",
+        "c04dc09c-1825-40e1-b238-4498923f2384@ce5f1",
+        "c04dc09c-1825-40e1-b238-4498923f2384@7b737",
+        "c04dc09c-1825-40e1-b238-4498923f2384@feb7b",
+        "c04dc09c-1825-40e1-b238-4498923f2384@6b15b"
       ],
       "skeletons": [],
       "textures": [],
       "materials": [
-        "c04dc09c-1825-40e1-b238-4498923f2384@6d1bb",
         "c04dc09c-1825-40e1-b238-4498923f2384@57896",
         "c04dc09c-1825-40e1-b238-4498923f2384@a1559",
-        "c04dc09c-1825-40e1-b238-4498923f2384@fa029",
-        "c04dc09c-1825-40e1-b238-4498923f2384@adc5d",
-        "c04dc09c-1825-40e1-b238-4498923f2384@f0da5",
-        "c04dc09c-1825-40e1-b238-4498923f2384@18b58",
         "c04dc09c-1825-40e1-b238-4498923f2384@f1433"
       ],
       "scenes": [

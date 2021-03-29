@@ -40,9 +40,9 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 80,
-      "y": 80,
-      "z": 80
+      "x": 1,
+      "y": 1,
+      "z": 1
     },
     "_layer": 1073741824,
     "_euler": {
@@ -75,9 +75,9 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -0.029,
-      "y": 0.035,
-      "z": 0.015
+      "x": -2.357,
+      "y": 2.859,
+      "z": 1.234
     },
     "_lrot": {
       "__type__": "cc.Quat",
@@ -88,9 +88,9 @@
     },
     "_lscale": {
       "__type__": "cc.Vec3",
-      "x": 1,
-      "y": 1,
-      "z": 1
+      "x": 80,
+      "y": 80,
+      "z": 80
     },
     "_layer": 1073741824,
     "_euler": {
@@ -252,7 +252,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "48920e7c-ed53-4dc2-8a7d-b59dd6b9e3b0"
+        "__uuid__": "75793279-83d4-42ef-8963-93906bda2909"
       }
     ],
     "_visFlags": 0,
@@ -507,10 +507,10 @@
       "z": 0,
       "w": 0
     },
-    "_bakeable": false,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
+    "_bakeable": true,
+    "_castShadow": true,
+    "_receiveShadow": true,
+    "_recieveShadow": true,
     "_lightmapSize": 64
   },
   {

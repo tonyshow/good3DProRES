@@ -1,0 +1,130 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7bc61b10-76f5-431a-aa7e-6458bae4775f",
+  "files": [],
+  "subMetas": {
+    "e05ea": {
+      "importer": "gltf-mesh",
+      "uuid": "7bc61b10-76f5-431a-aa7e-6458bae4775f@e05ea",
+      "displayName": "",
+      "id": "e05ea",
+      "name": "pSphere4.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c85c3": {
+      "importer": "gltf-mesh",
+      "uuid": "7bc61b10-76f5-431a-aa7e-6458bae4775f@c85c3",
+      "displayName": "",
+      "id": "c85c3",
+      "name": "pTorus1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d00": {
+      "importer": "gltf-mesh",
+      "uuid": "7bc61b10-76f5-431a-aa7e-6458bae4775f@73d00",
+      "displayName": "",
+      "id": "73d00",
+      "name": "pCylinder3.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f4f5c": {
+      "importer": "gltf-material",
+      "uuid": "7bc61b10-76f5-431a-aa7e-6458bae4775f@f4f5c",
+      "displayName": "",
+      "id": "f4f5c",
+      "name": "nangua_aiStandardSurface23.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dd00": {
+      "importer": "gltf-material",
+      "uuid": "7bc61b10-76f5-431a-aa7e-6458bae4775f@3dd00",
+      "displayName": "",
+      "id": "3dd00",
+      "name": "nangua_aiStandardSurface24.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dc552": {
+      "importer": "gltf-scene",
+      "uuid": "7bc61b10-76f5-431a-aa7e-6458bae4775f@dc552",
+      "displayName": "",
+      "id": "dc552",
+      "name": "nangua.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "disableMeshSplit": true,
+    "redirect": "7bc61b10-76f5-431a-aa7e-6458bae4775f@dc552",
+    "assetFinder": {
+      "meshes": [
+        "7bc61b10-76f5-431a-aa7e-6458bae4775f@e05ea",
+        "7bc61b10-76f5-431a-aa7e-6458bae4775f@c85c3",
+        "7bc61b10-76f5-431a-aa7e-6458bae4775f@73d00"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7bc61b10-76f5-431a-aa7e-6458bae4775f@f4f5c",
+        "7bc61b10-76f5-431a-aa7e-6458bae4775f@3dd00"
+      ],
+      "scenes": [
+        "7bc61b10-76f5-431a-aa7e-6458bae4775f@dc552"
+      ]
+    }
+  }
+}

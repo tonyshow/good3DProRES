@@ -22,12 +22,12 @@
       ],
       "subMetas": {}
     },
-    "f0da5": {
+    "5ece3": {
       "importer": "gltf-material",
-      "uuid": "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@f0da5",
+      "uuid": "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@5ece3",
       "displayName": "",
-      "id": "f0da5",
-      "name": "aiStandardSurface34.material",
+      "id": "5ece3",
+      "name": "gui_aiStandardSurface34.material",
       "userData": {
         "gltfIndex": 0
       },
@@ -67,7 +67,7 @@
       "skeletons": [],
       "textures": [],
       "materials": [
-        "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@f0da5"
+        "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@5ece3"
       ],
       "scenes": [
         "0085dc04-beb6-4bac-88a8-5a3abc1b5d98@0c7a5"
