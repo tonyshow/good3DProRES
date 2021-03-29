@@ -135,15 +135,15 @@
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 0
+      "x": 0.0009765625,
+      "y": 0.0009765625,
+      "z": 0.060546875,
+      "w": 0.060546875
     },
-    "_bakeable": false,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
+    "_bakeable": true,
+    "_castShadow": true,
+    "_receiveShadow": true,
+    "_recieveShadow": true,
     "_lightmapSize": 64
   },
   {

@@ -2,9 +2,9 @@
   "ver": "1.0.0",
   "importer": "*",
   "imported": true,
-  "uuid": "196ab6ac-1b78-4346-953d-01b030ea8d9a",
+  "uuid": "e5c70576-b6de-43e7-aa29-5970903770f8",
   "files": [
-    ".log",
+    ".o",
     ".json"
   ],
   "subMetas": {},

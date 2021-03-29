@@ -186,18 +186,20 @@
   },
   {
     "__type__": "cc.ModelLightmapSettings",
-    "texture": null,
+    "texture": {
+      "__uuid__": "40c735b2-9d3c-4742-b47c-60cc7f037619@6c48a"
+    },
     "uvParam": {
       "__type__": "cc.Vec4",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 0
+      "x": 0.0078125,
+      "y": 0.0078125,
+      "z": 0.484375,
+      "w": 0.484375
     },
     "_bakeable": true,
-    "_castShadow": false,
-    "_receiveShadow": false,
-    "_recieveShadow": false,
+    "_castShadow": true,
+    "_receiveShadow": true,
+    "_recieveShadow": true,
     "_lightmapSize": 64
   },
   {

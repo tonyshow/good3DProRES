@@ -234,10 +234,10 @@
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 0
+      "x": 0.0009765625,
+      "y": 0.0009765625,
+      "z": 0.060546875,
+      "w": 0.060546875
     },
     "_bakeable": true,
     "_castShadow": true,
@@ -337,10 +337,10 @@
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 0
+      "x": 0.0634765625,
+      "y": 0.0009765625,
+      "z": 0.060546875,
+      "w": 0.060546875
     },
     "_bakeable": true,
     "_castShadow": true,
@@ -440,10 +440,10 @@
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 0
+      "x": 0.1259765625,
+      "y": 0.0009765625,
+      "z": 0.060546875,
+      "w": 0.060546875
     },
     "_bakeable": true,
     "_castShadow": true,
@@ -553,10 +553,10 @@
     "texture": null,
     "uvParam": {
       "__type__": "cc.Vec4",
-      "x": 0,
-      "y": 0,
-      "z": 0,
-      "w": 0
+      "x": 0.1884765625,
+      "y": 0.0009765625,
+      "z": 0.060546875,
+      "w": 0.060546875
     },
     "_bakeable": true,
     "_castShadow": true,
