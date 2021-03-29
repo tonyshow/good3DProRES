@@ -79,8 +79,8 @@
     },
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -1.325,
-      "y": 150.865,
+      "x": 0,
+      "y": 348.361,
       "z": 0
     },
     "_lrot": {
@@ -96,7 +96,7 @@
       "y": 1,
       "z": 1
     },
-    "_layer": 33554432,
+    "_layer": 1073741824,
     "_euler": {
       "__type__": "cc.Vec3",
       "x": 0,
@@ -162,7 +162,7 @@
     "startLifetime": {
       "__id__": 14
     },
-    "duration": 4,
+    "duration": 20,
     "loop": false,
     "simulationSpeed": 10,
     "playOnAwake": true,
@@ -225,24 +225,24 @@
     "_mode": 2,
     "colorMin": {
       "__type__": "cc.Color",
-      "r": 206,
-      "g": 25,
-      "b": 61,
+      "r": 11,
+      "g": 189,
+      "b": 214,
       "a": 255
     },
     "colorMax": {
       "__type__": "cc.Color",
-      "r": 248,
-      "g": 184,
-      "b": 22,
+      "r": 240,
+      "g": 11,
+      "b": 103,
       "a": 255
     }
   },
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 16,
-    "constantMax": 26,
+    "constantMin": 30,
+    "constantMax": 50,
     "multiplier": 1
   },
   {
@@ -267,28 +267,28 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 1.0471975511965976,
-    "constantMax": -1.0471975511965976,
-    "multiplier": 1
-  },
-  {
-    "__type__": "cc.CurveRange",
-    "mode": 3,
-    "constantMin": 0.5235987755982988,
+    "constantMin": 0.17453292519943295,
     "constantMax": -0.5235987755982988,
     "multiplier": 1
   },
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": 2.0943951023931953,
-    "constantMax": -2.0943951023931953,
+    "constantMin": 0.3490658503988659,
+    "constantMax": -0.3490658503988659,
+    "multiplier": 1
+  },
+  {
+    "__type__": "cc.CurveRange",
+    "mode": 3,
+    "constantMin": 0.5235987755982988,
+    "constantMax": -0.3490658503988659,
     "multiplier": 1
   },
   {
     "__type__": "cc.CurveRange",
     "mode": 0,
-    "constant": 1,
+    "constant": 0,
     "multiplier": 1
   },
   {
@@ -304,7 +304,7 @@
     "curve": {
       "__id__": 16
     },
-    "multiplier": 2.6
+    "multiplier": 2
   },
   {
     "__type__": "cc.AnimationCurve",
@@ -323,13 +323,13 @@
     "__type__": "cc.Keyframe",
     "time": 0,
     "value": 1,
-    "inTangent": 0,
-    "outTangent": -1.8
+    "inTangent": -2,
+    "outTangent": -2
   },
   {
     "__type__": "cc.Keyframe",
     "time": 1,
-    "value": -0.11,
+    "value": 0,
     "inTangent": 0,
     "outTangent": 0
   },
@@ -370,13 +370,13 @@
   {
     "__type__": "cc.Keyframe",
     "time": 1,
-    "value": 0,
+    "value": 1,
     "inTangent": 0,
     "outTangent": 0
   },
   {
     "__type__": "cc.Burst",
-    "_time": 0,
+    "_time": 3,
     "_repeatCount": 1,
     "repeatInterval": 1,
     "count": {
@@ -402,7 +402,7 @@
     "colorMin": {
       "__type__": "cc.Color",
       "r": 248,
-      "g": 214,
+      "g": 196,
       "b": 33,
       "a": 255
     },
@@ -652,8 +652,8 @@
   {
     "__type__": "cc.CurveRange",
     "mode": 3,
-    "constantMin": -0.6981317007977318,
-    "constantMax": 0.6981317007977318,
+    "constantMin": -0.3490658503988659,
+    "constantMax": 0.5235987755982988,
     "multiplier": 1
   },
   {
@@ -757,7 +757,7 @@
     "_lengthScale": 1,
     "_mesh": null,
     "_mainTexture": {
-      "__uuid__": "eaf6fb97-2f44-4aa4-b8e6-f9011252fb44@6c48a"
+      "__uuid__": "87227461-dea1-420c-8beb-71e9a6ea66ca@6c48a"
     },
     "_useGPU": false
   },
