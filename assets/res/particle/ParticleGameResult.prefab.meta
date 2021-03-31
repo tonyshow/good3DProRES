@@ -2,12 +2,12 @@
   "ver": "1.1.27",
   "importer": "prefab",
   "imported": true,
-  "uuid": "73764cf8-4c2b-4272-b9ed-54d07600a67a",
+  "uuid": "a2cdd101-2ddf-482c-9999-63559deb6781",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "Particle"
+    "syncNodeName": "ParticleGameResult"
   }
 }
