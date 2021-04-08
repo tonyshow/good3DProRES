@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "8eaca71b-e3e4-4e8d-8e62-beb240f2cd28",
+  "uuid": "71da2015-876f-451f-a768-fa978ee785ec",
   "files": [
     ".png",
     ".json"
@@ -10,8 +10,8 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "8eaca71b-e3e4-4e8d-8e62-beb240f2cd28@6c48a",
-      "displayName": "FiveStar",
+      "uuid": "71da2015-876f-451f-a768-fa978ee785ec@6c48a",
+      "displayName": "Star_icon",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -22,7 +22,7 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "8eaca71b-e3e4-4e8d-8e62-beb240f2cd28"
+        "imageUuidOrDatabaseUri": "71da2015-876f-451f-a768-fa978ee785ec"
       },
       "ver": "1.0.20",
       "imported": true,
@@ -35,6 +35,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "texture",
-    "redirect": "8eaca71b-e3e4-4e8d-8e62-beb240f2cd28@6c48a"
+    "redirect": "71da2015-876f-451f-a768-fa978ee785ec@6c48a"
   }
 }
