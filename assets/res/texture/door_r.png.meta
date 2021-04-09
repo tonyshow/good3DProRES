@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "e1840e70-7c76-44c7-adbd-89ac93e5888f",
+  "uuid": "44537e66-6bb6-49da-8ffe-3172125b5550",
   "files": [
     ".png",
     ".json"
@@ -10,19 +10,19 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "e1840e70-7c76-44c7-adbd-89ac93e5888f@6c48a",
+      "uuid": "44537e66-6bb6-49da-8ffe-3172125b5550@6c48a",
       "displayName": "door_r",
       "id": "6c48a",
       "name": "texture",
       "userData": {
-        "wrapModeS": "repeat",
-        "wrapModeT": "repeat",
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "e1840e70-7c76-44c7-adbd-89ac93e5888f"
+        "imageUuidOrDatabaseUri": "44537e66-6bb6-49da-8ffe-3172125b5550"
       },
       "ver": "1.0.20",
       "imported": true,
@@ -35,6 +35,6 @@
   "userData": {
     "hasAlpha": true,
     "type": "texture",
-    "redirect": "e1840e70-7c76-44c7-adbd-89ac93e5888f@6c48a"
+    "redirect": "44537e66-6bb6-49da-8ffe-3172125b5550@6c48a"
   }
 }

@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "b2f4bcf1-bc7c-4248-8c8c-cb4d20c1f58c",
+  "uuid": "29717660-ea94-4bed-9406-fb65fafd4b0e",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "b2f4bcf1-bc7c-4248-8c8c-cb4d20c1f58c@6c48a",
+      "uuid": "29717660-ea94-4bed-9406-fb65fafd4b0e@6c48a",
       "displayName": "iconFrozen",
       "id": "6c48a",
       "name": "texture",
@@ -22,9 +22,43 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "b2f4bcf1-bc7c-4248-8c8c-cb4d20c1f58c"
+        "imageUuidOrDatabaseUri": "29717660-ea94-4bed-9406-fb65fafd4b0e"
       },
       "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "29717660-ea94-4bed-9406-fb65fafd4b0e@f9941",
+      "displayName": "iconFrozen",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -2,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 296,
+        "height": 119,
+        "rawWidth": 300,
+        "rawHeight": 119,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "29717660-ea94-4bed-9406-fb65fafd4b0e@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -34,7 +68,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "b2f4bcf1-bc7c-4248-8c8c-cb4d20c1f58c@6c48a"
+    "type": "sprite-frame",
+    "redirect": "29717660-ea94-4bed-9406-fb65fafd4b0e@f9941"
   }
 }

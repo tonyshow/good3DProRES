@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "e0243873-e795-45b4-b9dd-cc25c45f6519",
+  "uuid": "17325b28-32fb-4684-bf6e-7d631c224005",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "e0243873-e795-45b4-b9dd-cc25c45f6519@6c48a",
+      "uuid": "17325b28-32fb-4684-bf6e-7d631c224005@6c48a",
       "displayName": "combo",
       "id": "6c48a",
       "name": "texture",
@@ -22,9 +22,43 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "e0243873-e795-45b4-b9dd-cc25c45f6519"
+        "imageUuidOrDatabaseUri": "17325b28-32fb-4684-bf6e-7d631c224005"
       },
       "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "17325b28-32fb-4684-bf6e-7d631c224005@f9941",
+      "displayName": "combo",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "custom",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -9,
+        "trimX": 0,
+        "trimY": 18,
+        "width": 172,
+        "height": 154,
+        "rawWidth": 172,
+        "rawHeight": 172,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "17325b28-32fb-4684-bf6e-7d631c224005@6c48a",
+        "atlasUuid": "",
+        "packable": true
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -34,7 +68,11 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "e0243873-e795-45b4-b9dd-cc25c45f6519@6c48a"
+    "type": "sprite-frame",
+    "redirect": "17325b28-32fb-4684-bf6e-7d631c224005@f9941",
+    "flipVertical": false,
+    "compressSettings": {
+      "useCompressTexture": false
+    }
   }
 }

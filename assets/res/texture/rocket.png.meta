@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "43b8f95a-9d54-4b8b-90eb-fc41d73bc944",
+  "uuid": "e4270956-ca4b-4713-a0d5-c5217c739cec",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "43b8f95a-9d54-4b8b-90eb-fc41d73bc944@6c48a",
+      "uuid": "e4270956-ca4b-4713-a0d5-c5217c739cec@6c48a",
       "displayName": "rocket",
       "id": "6c48a",
       "name": "texture",
@@ -22,9 +22,43 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "43b8f95a-9d54-4b8b-90eb-fc41d73bc944"
+        "imageUuidOrDatabaseUri": "e4270956-ca4b-4713-a0d5-c5217c739cec"
       },
       "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "e4270956-ca4b-4713-a0d5-c5217c739cec@f9941",
+      "displayName": "rocket",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 640,
+        "height": 673,
+        "rawWidth": 640,
+        "rawHeight": 673,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e4270956-ca4b-4713-a0d5-c5217c739cec@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -34,7 +68,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "43b8f95a-9d54-4b8b-90eb-fc41d73bc944@6c48a"
+    "type": "sprite-frame",
+    "redirect": "e4270956-ca4b-4713-a0d5-c5217c739cec@f9941"
   }
 }

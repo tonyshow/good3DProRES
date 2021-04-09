@@ -15,14 +15,14 @@
       "id": "6c48a",
       "name": "texture",
       "userData": {
+        "imageUuidOrDatabaseUri": "5002f609-60b0-4ad9-ac3f-6498f3b6541d",
         "wrapModeS": "repeat",
         "wrapModeT": "repeat",
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 1,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "5002f609-60b0-4ad9-ac3f-6498f3b6541d"
+        "isUuid": true
       },
       "ver": "1.0.20",
       "imported": true,
@@ -49,14 +49,14 @@
         "height": 138,
         "rawWidth": 155,
         "rawHeight": 138,
-        "borderTop": 64,
-        "borderBottom": 65,
-        "borderLeft": 77,
-        "borderRight": 77,
+        "borderTop": 63,
+        "borderBottom": 63,
+        "borderLeft": 70,
+        "borderRight": 70,
+        "packable": true,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "5002f609-60b0-4ad9-ac3f-6498f3b6541d@6c48a",
-        "atlasUuid": "",
-        "packable": true
+        "atlasUuid": ""
       },
       "ver": "1.0.9",
       "imported": true,
