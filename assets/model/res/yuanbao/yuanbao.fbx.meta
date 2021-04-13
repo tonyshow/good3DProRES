@@ -1,0 +1,77 @@
+{
+  "ver": "2.0.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "065835ba-df52-429c-a3b7-6afd5cf73962",
+  "files": [],
+  "subMetas": {
+    "fd456": {
+      "importer": "gltf-mesh",
+      "uuid": "065835ba-df52-429c-a3b7-6afd5cf73962@fd456",
+      "displayName": "",
+      "id": "fd456",
+      "name": "pSphere1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d5a7": {
+      "importer": "gltf-material",
+      "uuid": "065835ba-df52-429c-a3b7-6afd5cf73962@2d5a7",
+      "displayName": "",
+      "id": "2d5a7",
+      "name": "aiStandardSurface1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "eaeb4": {
+      "importer": "gltf-scene",
+      "uuid": "065835ba-df52-429c-a3b7-6afd5cf73962@eaeb4",
+      "displayName": "",
+      "id": "eaeb4",
+      "name": "yuanbao.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "disableMeshSplit": true,
+    "redirect": "065835ba-df52-429c-a3b7-6afd5cf73962@eaeb4",
+    "assetFinder": {
+      "meshes": [
+        "065835ba-df52-429c-a3b7-6afd5cf73962@fd456"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "065835ba-df52-429c-a3b7-6afd5cf73962@2d5a7"
+      ],
+      "scenes": [
+        "065835ba-df52-429c-a3b7-6afd5cf73962@eaeb4"
+      ]
+    }
+  }
+}
