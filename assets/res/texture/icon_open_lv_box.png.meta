@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "5d269cbe-d03b-4c3d-9660-cc1bc45d444f",
+  "uuid": "97713b56-d24e-49cc-bb0c-967dbf54c760",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "5d269cbe-d03b-4c3d-9660-cc1bc45d444f@6c48a",
+      "uuid": "97713b56-d24e-49cc-bb0c-967dbf54c760@6c48a",
       "displayName": "icon_open_lv_box",
       "id": "6c48a",
       "name": "texture",
@@ -22,9 +22,43 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "5d269cbe-d03b-4c3d-9660-cc1bc45d444f"
+        "imageUuidOrDatabaseUri": "97713b56-d24e-49cc-bb0c-967dbf54c760"
       },
       "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "97713b56-d24e-49cc-bb0c-967dbf54c760@f9941",
+      "displayName": "icon_open_lv_box",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 128,
+        "height": 111,
+        "rawWidth": 128,
+        "rawHeight": 111,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "97713b56-d24e-49cc-bb0c-967dbf54c760@6c48a",
+        "atlasUuid": "",
+        "packable": true
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -34,7 +68,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "5d269cbe-d03b-4c3d-9660-cc1bc45d444f@6c48a"
+    "type": "sprite-frame",
+    "redirect": "97713b56-d24e-49cc-bb0c-967dbf54c760@f9941"
   }
 }

@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9",
+  "uuid": "44a5aed9-a30a-471f-8889-ca92522f1d26",
   "files": [
     ".png",
     ".json"
@@ -10,7 +10,7 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9@6c48a",
+      "uuid": "44a5aed9-a30a-471f-8889-ca92522f1d26@6c48a",
       "displayName": "icon_hand",
       "id": "6c48a",
       "name": "texture",
@@ -22,9 +22,43 @@
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9"
+        "imageUuidOrDatabaseUri": "44a5aed9-a30a-471f-8889-ca92522f1d26"
       },
       "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "44a5aed9-a30a-471f-8889-ca92522f1d26@f9941",
+      "displayName": "icon_hand",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 130,
+        "height": 137,
+        "rawWidth": 130,
+        "rawHeight": 137,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "44a5aed9-a30a-471f-8889-ca92522f1d26@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -34,7 +68,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "5b71ff26-51f0-40ab-88d2-74a3a23e1cd9@6c48a"
+    "type": "sprite-frame",
+    "redirect": "44a5aed9-a30a-471f-8889-ca92522f1d26@f9941"
   }
 }

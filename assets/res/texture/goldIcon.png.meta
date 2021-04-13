@@ -70,6 +70,6 @@
     "hasAlpha": true,
     "type": "sprite-frame",
     "redirect": "842a6893-afaa-4a85-8ef1-eab55ce4f8b9@f9941",
-    "flipVertical": true
+    "flipVertical": false
   }
 }

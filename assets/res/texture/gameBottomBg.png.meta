@@ -1,0 +1,74 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "d9bfe191-01d8-45d6-9130-5f20c1d9b1d7",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "d9bfe191-01d8-45d6-9130-5f20c1d9b1d7@6c48a",
+      "displayName": "gameBottomBg",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9bfe191-01d8-45d6-9130-5f20c1d9b1d7"
+      },
+      "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "d9bfe191-01d8-45d6-9130-5f20c1d9b1d7@f9941",
+      "displayName": "gameBottomBg",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 256,
+        "height": 113,
+        "rawWidth": 256,
+        "rawHeight": 113,
+        "borderTop": 43,
+        "borderBottom": 41,
+        "borderLeft": 108,
+        "borderRight": 109,
+        "packable": true,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d9bfe191-01d8-45d6-9130-5f20c1d9b1d7@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "sprite-frame",
+    "redirect": "d9bfe191-01d8-45d6-9130-5f20c1d9b1d7@f9941"
+  }
+}

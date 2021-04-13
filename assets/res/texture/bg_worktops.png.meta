@@ -2,7 +2,7 @@
   "ver": "1.0.21",
   "importer": "image",
   "imported": true,
-  "uuid": "c2d56906-205c-4831-a97a-75c81e796bce",
+  "uuid": "3ecc3cef-2028-4a8c-9b53-8a3039bcf6dc",
   "files": [
     ".png",
     ".json"
@@ -10,21 +10,55 @@
   "subMetas": {
     "6c48a": {
       "importer": "texture",
-      "uuid": "c2d56906-205c-4831-a97a-75c81e796bce@6c48a",
+      "uuid": "3ecc3cef-2028-4a8c-9b53-8a3039bcf6dc@6c48a",
       "displayName": "bg_worktops",
       "id": "6c48a",
       "name": "texture",
       "userData": {
-        "wrapModeS": "repeat",
-        "wrapModeT": "repeat",
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
         "anisotropy": 1,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "c2d56906-205c-4831-a97a-75c81e796bce"
+        "imageUuidOrDatabaseUri": "3ecc3cef-2028-4a8c-9b53-8a3039bcf6dc"
       },
       "ver": "1.0.20",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "3ecc3cef-2028-4a8c-9b53-8a3039bcf6dc@f9941",
+      "displayName": "bg_worktops",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": 0,
+        "trimX": 0,
+        "trimY": 0,
+        "width": 181,
+        "height": 181,
+        "rawWidth": 181,
+        "rawHeight": 181,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3ecc3cef-2028-4a8c-9b53-8a3039bcf6dc@6c48a",
+        "atlasUuid": "",
+        "packable": true
+      },
+      "ver": "1.0.9",
       "imported": true,
       "files": [
         ".json"
@@ -34,7 +68,7 @@
   },
   "userData": {
     "hasAlpha": true,
-    "type": "texture",
-    "redirect": "c2d56906-205c-4831-a97a-75c81e796bce@6c48a"
+    "type": "sprite-frame",
+    "redirect": "3ecc3cef-2028-4a8c-9b53-8a3039bcf6dc@f9941"
   }
 }
