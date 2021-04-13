@@ -8,29 +8,6 @@
     ".json"
   ],
   "subMetas": {
-    "6c48a": {
-      "importer": "texture",
-      "uuid": "97dc50e2-eb1d-4fba-bc17-8588fd7c5681@6c48a",
-      "displayName": "combo_bg",
-      "id": "6c48a",
-      "name": "texture",
-      "userData": {
-        "wrapModeS": "repeat",
-        "wrapModeT": "repeat",
-        "minfilter": "linear",
-        "magfilter": "linear",
-        "mipfilter": "none",
-        "anisotropy": 1,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "97dc50e2-eb1d-4fba-bc17-8588fd7c5681"
-      },
-      "ver": "1.0.20",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "f9941": {
       "importer": "sprite-frame",
       "uuid": "97dc50e2-eb1d-4fba-bc17-8588fd7c5681@f9941",
@@ -59,6 +36,29 @@
         "packable": true
       },
       "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "97dc50e2-eb1d-4fba-bc17-8588fd7c5681@6c48a",
+      "displayName": "combo_bg",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "97dc50e2-eb1d-4fba-bc17-8588fd7c5681"
+      },
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"

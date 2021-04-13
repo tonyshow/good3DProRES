@@ -8,29 +8,6 @@
     ".json"
   ],
   "subMetas": {
-    "6c48a": {
-      "importer": "texture",
-      "uuid": "01284b04-4240-47ce-afb3-d0324c7613ff@6c48a",
-      "displayName": "box_white_ptg",
-      "id": "6c48a",
-      "name": "texture",
-      "userData": {
-        "wrapModeS": "repeat",
-        "wrapModeT": "repeat",
-        "minfilter": "linear",
-        "magfilter": "linear",
-        "mipfilter": "none",
-        "anisotropy": 1,
-        "isUuid": true,
-        "imageUuidOrDatabaseUri": "01284b04-4240-47ce-afb3-d0324c7613ff"
-      },
-      "ver": "1.0.20",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "f9941": {
       "importer": "sprite-frame",
       "uuid": "01284b04-4240-47ce-afb3-d0324c7613ff@f9941",
@@ -59,6 +36,29 @@
         "packable": true
       },
       "ver": "1.0.9",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "01284b04-4240-47ce-afb3-d0324c7613ff@6c48a",
+      "displayName": "box_white_ptg",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "01284b04-4240-47ce-afb3-d0324c7613ff"
+      },
+      "ver": "1.0.20",
       "imported": true,
       "files": [
         ".json"
