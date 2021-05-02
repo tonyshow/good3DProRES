@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.10",
+  "ver": "2.0.14",
   "importer": "fbx",
   "imported": true,
   "uuid": "6c525728-a811-4e7b-a3d8-cef5aca7b245",
@@ -22,22 +22,6 @@
       ],
       "subMetas": {}
     },
-    "8f0b2": {
-      "importer": "gltf-scene",
-      "uuid": "6c525728-a811-4e7b-a3d8-cef5aca7b245@8f0b2",
-      "displayName": "",
-      "id": "8f0b2",
-      "name": "shuibei.prefab",
-      "userData": {
-        "gltfIndex": 0
-      },
-      "ver": "1.0.12",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
     "83e97": {
       "importer": "gltf-material",
       "uuid": "6c525728-a811-4e7b-a3d8-cef5aca7b245@83e97",
@@ -48,6 +32,22 @@
         "gltfIndex": 0
       },
       "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f0b2": {
+      "importer": "gltf-scene",
+      "uuid": "6c525728-a811-4e7b-a3d8-cef5aca7b245@8f0b2",
+      "displayName": "",
+      "id": "8f0b2",
+      "name": "shuibei.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
       "imported": true,
       "files": [
         ".json"

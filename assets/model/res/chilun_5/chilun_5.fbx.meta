@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.10",
+  "ver": "2.0.14",
   "importer": "fbx",
   "imported": true,
   "uuid": "8d4c0272-573c-4eaa-ac09-fb705e034e83",
@@ -22,12 +22,12 @@
       ],
       "subMetas": {}
     },
-    "d8d1f": {
+    "43c71": {
       "importer": "gltf-embeded-image",
-      "uuid": "8d4c0272-573c-4eaa-ac09-fb705e034e83@d8d1f",
+      "uuid": "8d4c0272-573c-4eaa-ac09-fb705e034e83@43c71",
       "displayName": "",
-      "id": "d8d1f",
-      "name": "lanse1.png.image",
+      "id": "43c71",
+      "name": "file1.image",
       "userData": {
         "gltfIndex": 0
       },
@@ -51,11 +51,11 @@
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
-        "anisotropy": 1,
+        "anisotropy": 0,
         "isUuid": true,
-        "imageUuidOrDatabaseUri": "8d4c0272-573c-4eaa-ac09-fb705e034e83@d8d1f"
+        "imageUuidOrDatabaseUri": "8d4c0272-573c-4eaa-ac09-fb705e034e83@43c71"
       },
-      "ver": "1.0.20",
+      "ver": "1.0.21",
       "imported": true,
       "files": [
         ".json"
@@ -98,8 +98,8 @@
   "userData": {
     "imageMetas": [
       {
-        "name": "lanse1.png",
-        "uri": "8d4c0272-573c-4eaa-ac09-fb705e034e83@d8d1f"
+        "name": "file1",
+        "uri": "8d4c0272-573c-4eaa-ac09-fb705e034e83@43c71"
       }
     ],
     "legacyFbxImporter": true,
