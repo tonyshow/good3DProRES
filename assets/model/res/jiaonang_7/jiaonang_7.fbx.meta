@@ -1,5 +1,5 @@
 {
-  "ver": "2.0.14",
+  "ver": "2.0.12",
   "importer": "fbx",
   "imported": true,
   "uuid": "f8b60247-6251-4f84-9f9e-2206b8046250",
@@ -84,7 +84,7 @@
         "minfilter": "linear",
         "magfilter": "linear",
         "mipfilter": "none",
-        "anisotropy": 0,
+        "anisotropy": 1,
         "isUuid": true,
         "imageUuidOrDatabaseUri": "f8b60247-6251-4f84-9f9e-2206b8046250@bc6c0"
       },
