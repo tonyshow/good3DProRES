@@ -210,8 +210,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "e52aa573-77e9-4035-98e5-b9ed151862ac",
-        "__expectedType__": "cc.Material"
+        "__uuid__": "e52aa573-77e9-4035-98e5-b9ed151862ac"
       }
     ],
     "_visFlags": 0,
@@ -219,8 +218,7 @@
       "__id__": 7
     },
     "_mesh": {
-      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@4508f",
-      "__expectedType__": "cc.Mesh"
+      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@4508f"
     },
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,
@@ -315,8 +313,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "3d7b28dc-04c8-4cae-b7dd-9821efcad450",
-        "__expectedType__": "cc.Material"
+        "__uuid__": "3e5a4373-2bab-46de-bad5-0315a3a22a2b"
       }
     ],
     "_visFlags": 0,
@@ -324,8 +321,7 @@
       "__id__": 12
     },
     "_mesh": {
-      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@a13de",
-      "__expectedType__": "cc.Mesh"
+      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@a13de"
     },
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,
@@ -420,8 +416,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "e52aa573-77e9-4035-98e5-b9ed151862ac",
-        "__expectedType__": "cc.Material"
+        "__uuid__": "e52aa573-77e9-4035-98e5-b9ed151862ac"
       }
     ],
     "_visFlags": 0,
@@ -429,8 +424,7 @@
       "__id__": 17
     },
     "_mesh": {
-      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@d1d26",
-      "__expectedType__": "cc.Mesh"
+      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@d1d26"
     },
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,
@@ -535,8 +529,7 @@
     },
     "_materials": [
       {
-        "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@8d883",
-        "__expectedType__": "cc.Material"
+        "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@8d883"
       }
     ],
     "_visFlags": 0,
@@ -544,8 +537,7 @@
       "__id__": 23
     },
     "_mesh": {
-      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@7f4b6",
-      "__expectedType__": "cc.Mesh"
+      "__uuid__": "6fb1bc07-94ba-46b3-8208-f6ecf2f9a640@7f4b6"
     },
     "_shadowCastingMode": 0,
     "_shadowReceivingMode": 1,

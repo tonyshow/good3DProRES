@@ -1,0 +1,147 @@
+{
+  "ver": "2.0.12",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d",
+  "files": [],
+  "subMetas": {
+    "6761a": {
+      "importer": "gltf-mesh",
+      "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@6761a",
+      "displayName": "",
+      "id": "6761a",
+      "name": "pSphere2.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "db573": {
+      "importer": "gltf-mesh",
+      "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@db573",
+      "displayName": "",
+      "id": "db573",
+      "name": "polySurface2.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "01a55": {
+      "importer": "gltf-mesh",
+      "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@01a55",
+      "displayName": "",
+      "id": "01a55",
+      "name": "polySurface1.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e60c": {
+      "importer": "gltf-material",
+      "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@2e60c",
+      "displayName": "",
+      "id": "2e60c",
+      "name": "dengpao_aiStandardSurface14.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "333ea": {
+      "importer": "gltf-material",
+      "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@333ea",
+      "displayName": "",
+      "id": "333ea",
+      "name": "dengpao_aiStandardSurface13.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0726": {
+      "importer": "gltf-material",
+      "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@e0726",
+      "displayName": "",
+      "id": "e0726",
+      "name": "dengpao_aiStandardSurface15.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dac68": {
+      "importer": "gltf-scene",
+      "uuid": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@dac68",
+      "displayName": "",
+      "id": "dac68",
+      "name": "dengpao.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": true,
+    "disableMeshSplit": true,
+    "redirect": "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@dac68",
+    "assetFinder": {
+      "meshes": [
+        "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@6761a",
+        "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@db573",
+        "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@01a55"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@2e60c",
+        "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@333ea",
+        "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@e0726"
+      ],
+      "scenes": [
+        "e054452c-bd8f-47d4-8a1e-4b85e9a3830d@dac68"
+      ]
+    }
+  }
+}
